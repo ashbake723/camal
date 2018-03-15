@@ -1,0 +1,39 @@
+2017-11-08T08:37:36 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2017-11-08T08:37:40 [cTelescope.py:69 - initialize()] INFO:  Connected to telescope now
+2017-11-08T08:38:10 [cTelescope.py:134 - home()] INFO: Telescope Finding Home Position
+2017-11-08T08:38:16 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731519233, DEC: 20.8951166358
+2017-11-08T08:48:22 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731521175, DEC: 20.8951168469
+2017-11-08T08:58:29 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731523103, DEC: 20.8951170568
+2017-11-08T09:08:35 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731525027, DEC: 20.8951172667
+2017-11-08T09:18:41 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731526945, DEC: 20.8951174762
+2017-11-08T09:28:46 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.92731528858, DEC: 20.8951176856
+2017-11-08T09:38:52 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 1.9273153077, DEC: 20.8951178951
+2017-11-08T09:39:30 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712561841, DEC: 28.6195599609
+2017-11-08T09:49:46 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712568775, DEC: 28.6195600689
+2017-11-08T10:00:03 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712575621, DEC: 28.619560176
+2017-11-08T10:10:20 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712582464, DEC: 28.6195602833
+2017-11-08T10:20:36 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712589296, DEC: 28.6195603907
+2017-11-08T10:30:51 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712596117, DEC: 28.6195604984
+2017-11-08T10:41:06 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712602935, DEC: 28.6195606063
+2017-11-08T10:51:22 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712609758, DEC: 28.6195607146
+2017-11-08T11:01:38 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712616577, DEC: 28.6195608232
+2017-11-08T11:11:56 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712623416, DEC: 28.6195609324
+2017-11-08T11:22:11 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712630217, DEC: 28.6195610414
+2017-11-08T11:32:27 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.4571263703, DEC: 28.6195611508
+2017-11-08T11:42:44 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712643844, DEC: 28.6195612607
+2017-11-08T11:53:01 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712650658, DEC: 28.6195613708
+2017-11-08T12:03:18 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712657469, DEC: 28.6195614812
+2017-11-08T12:13:37 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712664295, DEC: 28.6195615922
+2017-11-08T12:23:53 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712671088, DEC: 28.619561703
+2017-11-08T12:34:10 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712677892, DEC: 28.6195618143
+2017-11-08T12:44:27 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712684689, DEC: 28.6195619259
+2017-11-08T12:54:44 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712691471, DEC: 28.6195620375
+2017-11-08T13:05:00 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712698261, DEC: 28.6195621495
+2017-11-08T13:15:18 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712705051, DEC: 28.6195622619
+2017-11-08T13:25:36 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712711846, DEC: 28.6195623747
+2017-11-08T13:35:53 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712718629, DEC: 28.6195624876
+2017-11-08T13:46:11 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 5.45712725416, DEC: 28.6195626009
+2017-11-08T13:47:28 [cTelescope.py:130 - park()] INFO: Telescope Parked
+2017-11-08T13:47:28 [cTelescope.py:141 - shutDown()] INFO: Parking telescope
+2017-11-08T13:47:28 [cTelescope.py:147 - shutDown()] INFO: Telescope Parked
+2017-11-08T13:47:28 [cTelescope.py:154 - shutDown()] INFO: Disconnected from Telescope but not in the SkyX

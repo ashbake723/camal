@@ -1,0 +1,4 @@
+2016-11-14T18:19:40 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-14T18:19:40 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-14T18:19:42 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-14T18:19:42 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit

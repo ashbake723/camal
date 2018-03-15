@@ -1,0 +1,807 @@
+2017-12-07T00:49:45 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2017-12-07T00:49:45 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2017-12-07T00:49:45 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0001BIAS.0.fits
+2017-12-07T00:49:48 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2017-12-07T00:49:48 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0002BIAS.0.fits
+2017-12-07T00:49:49 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2017-12-07T00:49:49 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0003BIAS.0.fits
+2017-12-07T00:49:51 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2017-12-07T00:49:51 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0004BIAS.0.fits
+2017-12-07T00:49:52 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2017-12-07T00:49:52 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0005BIAS.0.fits
+2017-12-07T00:49:53 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2017-12-07T00:49:53 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0006BIAS.0.fits
+2017-12-07T00:49:55 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2017-12-07T00:49:55 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0007BIAS.0.fits
+2017-12-07T00:49:56 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2017-12-07T00:49:56 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0008BIAS.0.fits
+2017-12-07T00:49:58 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2017-12-07T00:49:58 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:49:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0009BIAS.0.fits
+2017-12-07T00:49:59 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2017-12-07T00:49:59 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0010BIAS.0.fits
+2017-12-07T00:50:01 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2017-12-07T00:50:01 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0011BIAS.0.fits
+2017-12-07T00:50:02 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2017-12-07T00:50:02 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0012BIAS.0.fits
+2017-12-07T00:50:03 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2017-12-07T00:50:03 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0013BIAS.0.fits
+2017-12-07T00:50:05 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2017-12-07T00:50:05 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0014BIAS.0.fits
+2017-12-07T00:50:06 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2017-12-07T00:50:06 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0015BIAS.0.fits
+2017-12-07T00:50:08 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2017-12-07T00:50:08 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0016BIAS.0.fits
+2017-12-07T00:50:09 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2017-12-07T00:50:09 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0017BIAS.0.fits
+2017-12-07T00:50:11 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2017-12-07T00:50:11 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0018BIAS.0.fits
+2017-12-07T00:50:12 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2017-12-07T00:50:12 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0019BIAS.0.fits
+2017-12-07T00:50:13 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2017-12-07T00:50:13 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0020BIAS.0.fits
+2017-12-07T00:50:15 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2017-12-07T00:50:15 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0021BIAS.0.fits
+2017-12-07T00:50:16 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2017-12-07T00:50:16 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0022BIAS.0.fits
+2017-12-07T00:50:18 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2017-12-07T00:50:18 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0023BIAS.0.fits
+2017-12-07T00:50:19 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2017-12-07T00:50:19 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0024BIAS.0.fits
+2017-12-07T00:50:20 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2017-12-07T00:50:20 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0025BIAS.0.fits
+2017-12-07T00:50:22 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2017-12-07T00:50:22 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0026BIAS.0.fits
+2017-12-07T00:50:23 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2017-12-07T00:50:23 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0027BIAS.0.fits
+2017-12-07T00:50:24 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2017-12-07T00:50:24 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0028BIAS.0.fits
+2017-12-07T00:50:26 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2017-12-07T00:50:26 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0029BIAS.0.fits
+2017-12-07T00:50:27 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2017-12-07T00:50:27 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-12-07T00:50:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171207//0030BIAS.0.fits
+2017-12-07T00:50:29 [main.py:505 - <module>()] INFO: Waiting for nautical twilight to end (1567.764249seconds)
+2017-12-07T01:16:37 [main.py:510 - <module>()] INFO: Making Schedule
+2017-12-07T01:16:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:17:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:18:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:19:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:20:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:21:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:22:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:23:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:24:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:25:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:26:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:27:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:28:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:29:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:30:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:31:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:32:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:33:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:34:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:35:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:36:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:37:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:38:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:39:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:40:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:41:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:42:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:43:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:44:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:45:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:46:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:47:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:48:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:49:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:50:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:51:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:52:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:53:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:54:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:55:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:56:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:57:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:58:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T01:59:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:00:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:01:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:02:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:03:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:04:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:05:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:06:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:07:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:08:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:09:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:10:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:11:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:12:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:13:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:14:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:16:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:17:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:18:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:19:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:20:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:21:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:22:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:23:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:24:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:25:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:26:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:27:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:28:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:29:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:30:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:31:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:32:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:33:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:34:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:35:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:36:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:37:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:38:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:39:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:40:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:41:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:42:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:43:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:44:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:45:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:46:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:47:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:48:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:49:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:50:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:51:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:52:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:53:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:54:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:55:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:56:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:57:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:58:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T02:59:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:00:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:01:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:02:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:03:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:04:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:05:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:06:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:07:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:08:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:09:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:10:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:11:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:12:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:13:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:14:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:15:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:16:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:17:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:18:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:19:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:20:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:21:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:22:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:23:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:24:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:25:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:26:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:27:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:28:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:29:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:30:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:31:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:32:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:33:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:34:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:35:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:36:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:37:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:38:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:39:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:40:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:41:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:42:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:43:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:44:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:45:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:46:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:47:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:48:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:49:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:50:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:51:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:52:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:53:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:54:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:55:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:56:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:57:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:58:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T03:59:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:00:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:01:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:02:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:03:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:04:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:05:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:06:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:07:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:08:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:09:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:10:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:11:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:12:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:13:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:14:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:15:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:16:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:17:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:18:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:19:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:20:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:21:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:22:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:23:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:24:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:25:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:26:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:27:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:28:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:29:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:30:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:31:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:32:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:33:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:34:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:35:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:36:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:37:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:38:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:39:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:40:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:41:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:42:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:43:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:44:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:45:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:46:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:47:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:48:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:49:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:50:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:51:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:52:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:53:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:54:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:55:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:56:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:57:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:58:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T04:59:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:00:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:01:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:02:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:03:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:04:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:05:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:06:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:07:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:08:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:09:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:10:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:11:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:12:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:13:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:14:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:15:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:16:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:17:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:18:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:19:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:20:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:21:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:22:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:23:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:24:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:25:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:26:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:27:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:28:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:29:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:30:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:31:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:32:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:33:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:34:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:35:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:36:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:37:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:38:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:39:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:40:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:41:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:42:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:43:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:44:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:45:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:46:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:47:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:48:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:49:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:50:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:51:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:52:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:53:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:54:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:55:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:56:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:57:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:58:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T05:59:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:00:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:01:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:02:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:03:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:04:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:05:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:06:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:07:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:08:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:09:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:11:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:12:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:13:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:14:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:15:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:16:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:17:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:18:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:19:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:20:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:21:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:22:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:23:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:24:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:25:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:26:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:27:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:28:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:29:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:30:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:31:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:32:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:33:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:34:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:35:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:36:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:37:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:38:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:39:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:40:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:41:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:42:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:43:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:44:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:45:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:46:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:47:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:48:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:49:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:50:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:51:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:52:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:53:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:54:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:55:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:56:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:57:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:58:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T06:59:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:00:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:01:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:02:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:03:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:04:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:05:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:06:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:07:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:08:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:09:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:10:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:11:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:12:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:13:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:14:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:15:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:16:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:17:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:18:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:19:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:20:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:21:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:22:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:23:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:24:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:25:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:26:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:27:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:28:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:29:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:30:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:31:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:32:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:33:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:34:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:35:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:36:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:37:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:38:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:39:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:40:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:41:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:42:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:43:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:44:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:45:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:46:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:47:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:48:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:49:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:50:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:51:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:52:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:53:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:54:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:55:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:56:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:57:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:58:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T07:59:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:00:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:01:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:02:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:03:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:04:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:05:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:06:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:07:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:08:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:09:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:10:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:11:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:12:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:13:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:14:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:15:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:16:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:17:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:18:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:19:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:20:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:21:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:22:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:23:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:24:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:25:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:26:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:27:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:28:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:29:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:30:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:31:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:32:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:33:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:34:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:35:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:36:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:37:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:38:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:39:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:40:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:41:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:42:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:43:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:44:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:45:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:46:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:47:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:48:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:49:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:50:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:51:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:52:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:53:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:54:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:55:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:56:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:57:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:58:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T08:59:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:00:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:01:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:02:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:03:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:04:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:05:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:06:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:07:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:08:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:09:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:10:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:11:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:12:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:13:46 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:14:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:15:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:16:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:17:47 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:18:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:19:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:20:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:21:48 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:22:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:23:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:24:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:25:49 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:26:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:27:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:28:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:29:50 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:30:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:31:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:32:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:33:51 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:34:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:35:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:36:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:37:52 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:38:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:39:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:40:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:41:53 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:42:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:43:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:44:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:45:54 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:46:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:47:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:48:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:49:55 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:50:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:51:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:52:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:53:56 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:54:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:55:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:56:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:57:57 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:58:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T09:59:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:00:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:01:58 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:02:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:03:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:04:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:05:59 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:07:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:08:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:09:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:10:00 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:11:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:12:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:13:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:14:01 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:15:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:16:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:17:02 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:18:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:19:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:20:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:21:03 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:22:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:23:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:24:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:25:04 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:26:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:27:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:28:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:29:05 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:30:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:31:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:32:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:33:06 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:34:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:35:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:36:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:37:07 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:38:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:39:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:40:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:41:08 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:42:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:43:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:44:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:45:09 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:46:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:47:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:48:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:49:10 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:50:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:51:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:52:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:53:11 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:54:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:55:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:56:12 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:57:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:58:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T10:59:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:00:13 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:01:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:02:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:03:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:04:14 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:05:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:06:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:07:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:08:15 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:09:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:10:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:11:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:12:16 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:13:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:14:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:15:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:16:17 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:17:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:18:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:19:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:20:18 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:21:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:22:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:23:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:24:19 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:25:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:26:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:27:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:28:20 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:29:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:30:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:31:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:32:21 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:33:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:34:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:35:22 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:36:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:37:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:38:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:39:23 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:40:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:41:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:42:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:43:24 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:44:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:45:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:46:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:47:25 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:48:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:49:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:50:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:51:26 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:52:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:53:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:54:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:55:27 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:56:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:57:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:58:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T11:59:28 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:00:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:01:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:02:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:03:29 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:04:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:05:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:06:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:07:30 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:08:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:09:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:10:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:11:31 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:12:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:13:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:14:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:15:32 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:16:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:17:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:18:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:19:33 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:20:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:21:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:22:34 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:23:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:24:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:25:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:26:35 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:27:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:28:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:29:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:30:36 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:31:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:32:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:33:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:34:37 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:35:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:36:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:37:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:38:38 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:39:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:40:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:41:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:42:39 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:43:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:44:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:45:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:46:40 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:47:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:48:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:49:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:50:41 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:51:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:52:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:53:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:54:42 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:55:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:56:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:57:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:58:43 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T12:59:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T13:00:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T13:01:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T13:02:44 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T13:03:45 [main.py:525 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-12-07T13:03:45 [main.py:532 - <module>()] INFO: Past Nautical Twilight. Should close up
+2017-12-07T13:03:45 [main.py:580 - <module>()] INFO: End Night
+2017-12-07T13:03:45 [main.py:33 - endNight()] INFO: Parking/Disconnection from Telescope
+2017-12-07T13:04:40 [main.py:38 - endNight()] INFO: Compressing data
+2017-12-07T13:04:40 [main.py:43 - endNight()] INFO: Disconnecting imager
+2017-12-07T13:05:05 [main.py:49 - endNight()] INFO: Backing Up data
+2017-12-07T13:05:05 [main.py:55 - endNight()] INFO: Copying schedule file from ./schedule/n20171207 to C:/camal/data/n20171207/
+2017-12-07T13:05:05 [main.py:62 - endNight()] INFO: Copying log file ./logs/n20171207\main.log to C:/camal/data/n20171207/
+2017-12-07T13:05:10 [main.py:591 - <module>()] INFO: Updating Reduction File list

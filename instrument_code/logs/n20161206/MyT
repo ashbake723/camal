@@ -1,0 +1,10 @@
+2016-12-06T02:58:58 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-12-06T02:59:11 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-12-06T02:59:12 [cTelescope.py:66 - initialize()] INFO: Telescope Unparked
+2016-12-06T02:59:12 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-12-06T03:00:18 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 5.43819722222, DEC: 28.6074444444
+2016-12-06T07:55:29 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 10.1395305556, DEC: 11.9672222222
+2016-12-06T12:50:34 [cTelescope.py:103 - park()] INFO: Telescope Parked
+2016-12-06T12:50:34 [cTelescope.py:107 - shutDown()] INFO: Parking telescope
+2016-12-06T12:50:34 [cTelescope.py:113 - shutDown()] INFO: Telescope Parked
+2016-12-06T12:50:34 [cTelescope.py:120 - shutDown()] INFO: Disconnected from Telescope but not in the SkyX

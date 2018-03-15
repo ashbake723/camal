@@ -1,0 +1,8 @@
+2018-01-26T00:50:21 [cCamera.py:427 - connect()] INFO: Connecting to Maxim
+2018-01-26T00:50:22 [cCamera.py:431 - connect()] INFO: Connecting to camera
+2018-01-26T00:50:27 [cCamera.py:439 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2018-01-26T00:50:27 [cCamera.py:444 - connect()] INFO: Preventing maxim from closing upon exit
+2018-01-26T00:50:27 [cCamera.py:335 - setBinning()] INFO: Camera binning set to 2x2
+2018-01-26T00:50:27 [cCamera.py:319 - setFrame()] INFO: Camera set to full-frame mode
+2018-01-26T00:50:32 [cCamera.py:369 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -5.23215684599
+2018-01-26T00:50:32 [cCamera.py:370 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%

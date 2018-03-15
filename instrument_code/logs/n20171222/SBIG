@@ -1,0 +1,127 @@
+2017-12-22T00:45:36 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-12-22T00:45:36 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-12-22T00:45:41 [cCamera.py:90 - connect()] INFO: Camera binning set to 2x2
+2017-12-22T00:45:41 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:45:46 [cCamera.py:182 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= 7.52815105491
+2017-12-22T00:45:46 [cCamera.py:183 - coolCCD()] INFO: Waiting for Camera Temperature to match Set Temp to within 0.4 Celcius
+2017-12-22T00:49:47 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:47 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:49 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:49 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0001BIAS.0.fits
+2017-12-22T00:49:49 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:49 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:50 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:50 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0002BIAS.0.fits
+2017-12-22T00:49:50 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:50 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:52 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0003BIAS.0.fits
+2017-12-22T00:49:52 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:52 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:53 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:53 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0004BIAS.0.fits
+2017-12-22T00:49:53 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:53 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:55 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:55 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0005BIAS.0.fits
+2017-12-22T00:49:55 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:55 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:56 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:56 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0006BIAS.0.fits
+2017-12-22T00:49:56 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:56 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:57 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0007BIAS.0.fits
+2017-12-22T00:49:57 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:57 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:49:59 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:49:59 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0008BIAS.0.fits
+2017-12-22T00:49:59 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:49:59 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:00 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:00 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0009BIAS.0.fits
+2017-12-22T00:50:00 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:00 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:02 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0010BIAS.0.fits
+2017-12-22T00:50:02 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:02 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:03 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:03 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0011BIAS.0.fits
+2017-12-22T00:50:03 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:03 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:05 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:05 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0012BIAS.0.fits
+2017-12-22T00:50:05 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:05 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:06 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:06 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0013BIAS.0.fits
+2017-12-22T00:50:06 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:06 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:07 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0014BIAS.0.fits
+2017-12-22T00:50:08 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:08 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:09 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:09 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0015BIAS.0.fits
+2017-12-22T00:50:09 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:09 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:10 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:10 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0016BIAS.0.fits
+2017-12-22T00:50:10 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:10 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:12 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:12 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0017BIAS.0.fits
+2017-12-22T00:50:12 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:12 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:13 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0018BIAS.0.fits
+2017-12-22T00:50:13 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:13 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:15 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:15 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0019BIAS.0.fits
+2017-12-22T00:50:15 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:15 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:16 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:16 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0020BIAS.0.fits
+2017-12-22T00:50:16 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:16 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:17 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:17 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0021BIAS.0.fits
+2017-12-22T00:50:17 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:17 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:19 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:19 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0022BIAS.0.fits
+2017-12-22T00:50:19 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:19 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:20 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:20 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0023BIAS.0.fits
+2017-12-22T00:50:20 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:20 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:22 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0024BIAS.0.fits
+2017-12-22T00:50:22 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:22 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:23 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:23 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0025BIAS.0.fits
+2017-12-22T00:50:23 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:23 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:25 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:25 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0026BIAS.0.fits
+2017-12-22T00:50:25 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:25 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:26 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:26 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0027BIAS.0.fits
+2017-12-22T00:50:26 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:26 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:27 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0028BIAS.0.fits
+2017-12-22T00:50:27 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:27 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:29 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:29 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0029BIAS.0.fits
+2017-12-22T00:50:29 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-12-22T00:50:29 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-12-22T00:50:30 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-12-22T00:50:30 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171222//0030BIAS.0.fits
+2017-12-22T13:14:33 [cCamera.py:208 - shutDown()] INFO: Warming Up CCD to Amb. Temp.

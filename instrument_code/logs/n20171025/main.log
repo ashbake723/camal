@@ -1,0 +1,1701 @@
+2017-10-25T05:08:18 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2017-10-25T05:08:18 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2017-10-25T05:08:18 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0001BIAS.0.fits
+2017-10-25T05:08:20 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2017-10-25T05:08:20 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0002BIAS.0.fits
+2017-10-25T05:08:21 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2017-10-25T05:08:21 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0003BIAS.0.fits
+2017-10-25T05:08:23 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2017-10-25T05:08:23 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0004BIAS.0.fits
+2017-10-25T05:08:24 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2017-10-25T05:08:24 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0005BIAS.0.fits
+2017-10-25T05:08:25 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2017-10-25T05:08:25 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0006BIAS.0.fits
+2017-10-25T05:08:26 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2017-10-25T05:08:26 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0007BIAS.0.fits
+2017-10-25T05:08:28 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2017-10-25T05:08:28 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0008BIAS.0.fits
+2017-10-25T05:08:29 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2017-10-25T05:08:29 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0009BIAS.0.fits
+2017-10-25T05:08:30 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2017-10-25T05:08:30 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0010BIAS.0.fits
+2017-10-25T05:08:31 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2017-10-25T05:08:31 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0011BIAS.0.fits
+2017-10-25T05:08:32 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2017-10-25T05:08:32 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0012BIAS.0.fits
+2017-10-25T05:08:34 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2017-10-25T05:08:34 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0013BIAS.0.fits
+2017-10-25T05:08:35 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2017-10-25T05:08:35 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0014BIAS.0.fits
+2017-10-25T05:08:36 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2017-10-25T05:08:36 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0015BIAS.0.fits
+2017-10-25T05:08:37 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2017-10-25T05:08:37 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0016BIAS.0.fits
+2017-10-25T05:08:39 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2017-10-25T05:08:39 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0017BIAS.0.fits
+2017-10-25T05:08:40 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2017-10-25T05:08:40 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0018BIAS.0.fits
+2017-10-25T05:08:41 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2017-10-25T05:08:41 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0019BIAS.0.fits
+2017-10-25T05:08:42 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2017-10-25T05:08:42 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0020BIAS.0.fits
+2017-10-25T05:08:43 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2017-10-25T05:08:43 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0021BIAS.0.fits
+2017-10-25T05:08:44 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2017-10-25T05:08:44 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0022BIAS.0.fits
+2017-10-25T05:08:46 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2017-10-25T05:08:46 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0023BIAS.0.fits
+2017-10-25T05:08:47 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2017-10-25T05:08:47 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0024BIAS.0.fits
+2017-10-25T05:08:48 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2017-10-25T05:08:48 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0025BIAS.0.fits
+2017-10-25T05:08:49 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2017-10-25T05:08:49 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0026BIAS.0.fits
+2017-10-25T05:08:51 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2017-10-25T05:08:51 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0027BIAS.0.fits
+2017-10-25T05:08:52 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2017-10-25T05:08:52 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0028BIAS.0.fits
+2017-10-25T05:08:53 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2017-10-25T05:08:53 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0029BIAS.0.fits
+2017-10-25T05:08:54 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2017-10-25T05:08:54 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-25T05:08:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0030BIAS.0.fits
+2017-10-25T05:08:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:09:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:10:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:11:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:12:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:13:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:14:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:16:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:17:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:18:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:19:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:20:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:21:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:22:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:23:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:24:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:25:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:26:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:27:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:28:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:29:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:30:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:31:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:32:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:33:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:34:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:35:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:36:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:37:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:38:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:39:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:40:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:41:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:42:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:43:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:44:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:45:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:46:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:47:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:48:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:49:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:50:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:51:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:52:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:53:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:54:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:55:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:56:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:57:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:58:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T05:59:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:00:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:01:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:02:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:03:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:04:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:05:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:06:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:07:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:08:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:09:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:10:26 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:11:26 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:12:27 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:13:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:14:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:15:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:16:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:17:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:18:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:19:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:20:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:21:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:22:32 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:23:32 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:24:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:25:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:26:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:27:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:28:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:29:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:30:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:31:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:32:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:33:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:34:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:35:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:36:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:37:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:38:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:39:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:40:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:41:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:42:42 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:43:43 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:44:43 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:45:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:46:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:47:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:48:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:49:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:50:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:51:46 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:52:46 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:53:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:54:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:55:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:56:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:57:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:58:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T06:59:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:00:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:01:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:02:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:03:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:04:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:05:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:06:53 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:07:53 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:08:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:09:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:10:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:11:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:12:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:13:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:14:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:15:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:16:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:17:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:18:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:19:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:21:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:22:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:23:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:24:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:25:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:26:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:27:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:28:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:29:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:30:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:31:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:32:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:33:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:34:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:35:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:36:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:37:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:38:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:39:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:40:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:41:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:42:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:43:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:44:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:45:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:46:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:47:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:48:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:49:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:50:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:51:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:52:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:53:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:54:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:55:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:56:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:57:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:58:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T07:59:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:00:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:01:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:02:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:03:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:04:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:05:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:06:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:07:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:08:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:09:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:10:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:11:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:12:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:13:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:14:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:15:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:16:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:17:26 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:18:26 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:19:27 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:20:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:21:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:22:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:23:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:24:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:25:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:26:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:27:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:28:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:29:32 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:30:32 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:31:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:32:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:33:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:34:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:35:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:36:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:37:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:38:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:39:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:40:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:41:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:42:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:43:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:44:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:45:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:46:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:47:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:48:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:49:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:50:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:51:42 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:52:42 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:53:43 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:54:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:55:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:56:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:57:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:58:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T08:59:46 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:00:46 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:01:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:02:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:03:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:04:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:05:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:06:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:07:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:08:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:09:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:10:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:11:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:12:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:13:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:14:53 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:15:53 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:16:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:17:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:18:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:19:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:20:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:21:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:22:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:23:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:24:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:25:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:26:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:27:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:28:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:30:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:31:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:32:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:33:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:34:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:35:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:36:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:37:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:38:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:39:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:40:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:41:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:42:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:43:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:44:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:45:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:46:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:47:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:48:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:49:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:50:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:51:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:52:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:53:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:54:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:55:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:56:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:57:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:58:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T09:59:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:00:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:01:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:02:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:03:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:04:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:05:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:06:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:07:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:08:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:09:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:10:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:11:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:12:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:13:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:14:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:15:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:16:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:17:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:18:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:19:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:20:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:21:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:22:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:23:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:24:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:25:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:26:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:27:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:28:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:29:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:30:26 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:31:27 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:32:27 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:33:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:34:28 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:35:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:36:29 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:37:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:38:30 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:39:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:40:31 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:41:32 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:42:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:43:33 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:44:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:45:34 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:46:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:47:35 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:48:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:49:36 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:50:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:51:37 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:52:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:53:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:54:38 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:55:39 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:56:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:57:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:58:40 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T10:59:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:00:41 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:01:42 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:02:42 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:03:43 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:04:43 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:05:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:06:44 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:07:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:08:45 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:09:46 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:10:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:11:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:12:47 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:13:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:14:48 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:15:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:16:49 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:17:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:18:50 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:19:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:20:51 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:21:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:22:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:23:52 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:24:53 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:25:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:26:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:27:54 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:28:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:29:55 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:30:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:31:56 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:32:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:33:57 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:34:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:35:58 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:36:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:37:59 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:39:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:40:00 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:41:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:42:01 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:43:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:44:02 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:45:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:46:03 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:47:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:48:04 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:49:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:50:05 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:51:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:52:06 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:53:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:54:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:55:07 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:56:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:57:08 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:58:09 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T11:59:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:00:10 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:01:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:02:11 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:03:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:04:12 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:05:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:06:13 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:07:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:08:14 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:09:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:10:15 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:11:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:12:16 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:13:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:14:17 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:15:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:16:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:17:18 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:18:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:19:19 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:20:20 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:21:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:22:21 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:23:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:24:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:25:22 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:26:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:27:23 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:28:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:29:24 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:30:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:31:25 [main.py:510 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-10-25T12:31:25 [main.py:518 - <module>()] INFO: Making Schedule and initializing telescope
+2017-10-25T12:31:29 [main.py:525 - <module>()] INFO: Initializing Telescope
+2017-10-25T12:32:05 [main.py:567 - <module>()] INFO: Deneb about to be observed
+2017-10-25T12:32:05 [main.py:349 - doScience()] INFO: Target Deneb past its endtime (2017-10-25 06:00:57); skipping
+2017-10-25T12:32:05 [main.py:569 - <module>()] INFO: Deneb done; moving on to next target
+2017-10-25T12:32:05 [main.py:567 - <module>()] INFO: Sheratan about to be observed
+2017-10-25T12:32:05 [main.py:349 - doScience()] INFO: Target Sheratan past its endtime (2017-10-25 10:28:29); skipping
+2017-10-25T12:32:05 [main.py:569 - <module>()] INFO: Sheratan done; moving on to next target
+2017-10-25T12:32:05 [main.py:567 - <module>()] INFO: Elnath about to be observed
+2017-10-25T12:32:11 [main.py:380 - doScience()] INFO: Looping through filters now for target
+2017-10-25T12:32:11 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:32:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0031Elnath.780.fits
+2017-10-25T12:32:16 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:32:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0032Elnath.823.fits
+2017-10-25T12:32:22 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:32:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0033Elnath.860.fits
+2017-10-25T12:32:31 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:32:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0034Elnath.780.fits
+2017-10-25T12:32:35 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:32:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0035Elnath.823.fits
+2017-10-25T12:32:42 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:32:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0036Elnath.860.fits
+2017-10-25T12:32:51 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:32:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0037Elnath.780.fits
+2017-10-25T12:32:55 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:33:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0038Elnath.823.fits
+2017-10-25T12:33:02 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:33:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0039Elnath.860.fits
+2017-10-25T12:33:11 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:33:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0040Elnath.780.fits
+2017-10-25T12:33:15 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:33:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0041Elnath.823.fits
+2017-10-25T12:33:21 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:33:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0042Elnath.860.fits
+2017-10-25T12:33:31 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:33:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0043Elnath.780.fits
+2017-10-25T12:33:35 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:33:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0044Elnath.823.fits
+2017-10-25T12:33:41 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:33:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0045Elnath.860.fits
+2017-10-25T12:33:50 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:33:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0046Elnath.780.fits
+2017-10-25T12:33:55 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:34:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0047Elnath.823.fits
+2017-10-25T12:34:01 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:34:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0048Elnath.860.fits
+2017-10-25T12:34:10 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:34:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0049Elnath.780.fits
+2017-10-25T12:34:15 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:34:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0050Elnath.823.fits
+2017-10-25T12:34:21 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:34:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0051Elnath.860.fits
+2017-10-25T12:34:30 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:34:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0052Elnath.780.fits
+2017-10-25T12:34:35 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:34:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0053Elnath.823.fits
+2017-10-25T12:34:41 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:34:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0054Elnath.860.fits
+2017-10-25T12:34:50 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:34:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0055Elnath.780.fits
+2017-10-25T12:34:54 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:35:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0056Elnath.823.fits
+2017-10-25T12:35:01 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:35:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0057Elnath.860.fits
+2017-10-25T12:35:10 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:35:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0058Elnath.780.fits
+2017-10-25T12:35:14 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:35:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0059Elnath.823.fits
+2017-10-25T12:35:20 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:35:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0060Elnath.860.fits
+2017-10-25T12:35:30 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:35:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0061Elnath.780.fits
+2017-10-25T12:35:34 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:35:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0062Elnath.823.fits
+2017-10-25T12:35:40 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:35:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0063Elnath.860.fits
+2017-10-25T12:35:49 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:35:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0064Elnath.780.fits
+2017-10-25T12:35:54 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:36:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0065Elnath.823.fits
+2017-10-25T12:36:00 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:36:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0066Elnath.860.fits
+2017-10-25T12:36:09 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:36:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0067Elnath.780.fits
+2017-10-25T12:36:14 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:36:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0068Elnath.823.fits
+2017-10-25T12:36:20 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:36:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0069Elnath.860.fits
+2017-10-25T12:36:29 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:36:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0070Elnath.780.fits
+2017-10-25T12:36:34 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:36:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0071Elnath.823.fits
+2017-10-25T12:36:40 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:36:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0072Elnath.860.fits
+2017-10-25T12:36:49 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:36:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0073Elnath.780.fits
+2017-10-25T12:36:54 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:37:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0074Elnath.823.fits
+2017-10-25T12:37:00 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:37:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0075Elnath.860.fits
+2017-10-25T12:37:09 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:37:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0076Elnath.780.fits
+2017-10-25T12:37:13 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:37:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0077Elnath.823.fits
+2017-10-25T12:37:20 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:37:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0078Elnath.860.fits
+2017-10-25T12:37:29 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:37:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0079Elnath.780.fits
+2017-10-25T12:37:33 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:37:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0080Elnath.823.fits
+2017-10-25T12:37:40 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:37:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0081Elnath.860.fits
+2017-10-25T12:37:49 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:37:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0082Elnath.780.fits
+2017-10-25T12:37:53 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:37:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0083Elnath.823.fits
+2017-10-25T12:37:59 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:38:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0084Elnath.860.fits
+2017-10-25T12:38:08 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:38:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0085Elnath.780.fits
+2017-10-25T12:38:13 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:38:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0086Elnath.823.fits
+2017-10-25T12:38:19 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:38:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0087Elnath.860.fits
+2017-10-25T12:38:28 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:38:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0088Elnath.780.fits
+2017-10-25T12:38:33 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:38:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0089Elnath.823.fits
+2017-10-25T12:38:39 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:38:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0090Elnath.860.fits
+2017-10-25T12:38:48 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:38:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0091Elnath.780.fits
+2017-10-25T12:38:53 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:38:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0092Elnath.823.fits
+2017-10-25T12:38:59 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:39:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0093Elnath.860.fits
+2017-10-25T12:39:08 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:39:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0094Elnath.780.fits
+2017-10-25T12:39:12 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:39:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0095Elnath.823.fits
+2017-10-25T12:39:19 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:39:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0096Elnath.860.fits
+2017-10-25T12:39:28 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:39:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0097Elnath.780.fits
+2017-10-25T12:39:32 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:39:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0098Elnath.823.fits
+2017-10-25T12:39:38 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:39:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0099Elnath.860.fits
+2017-10-25T12:39:48 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:39:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0100Elnath.780.fits
+2017-10-25T12:39:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:39:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0101Elnath.823.fits
+2017-10-25T12:39:58 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:40:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0102Elnath.860.fits
+2017-10-25T12:40:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:40:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0103Elnath.780.fits
+2017-10-25T12:40:12 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:40:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0104Elnath.823.fits
+2017-10-25T12:40:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:40:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0105Elnath.860.fits
+2017-10-25T12:40:27 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:40:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0106Elnath.780.fits
+2017-10-25T12:40:32 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:40:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0107Elnath.823.fits
+2017-10-25T12:40:38 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:40:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0108Elnath.860.fits
+2017-10-25T12:40:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:40:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0109Elnath.780.fits
+2017-10-25T12:40:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:40:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0110Elnath.823.fits
+2017-10-25T12:40:58 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:41:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0111Elnath.860.fits
+2017-10-25T12:41:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:41:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0112Elnath.780.fits
+2017-10-25T12:41:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:41:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0113Elnath.823.fits
+2017-10-25T12:41:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:41:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0114Elnath.860.fits
+2017-10-25T12:41:27 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:41:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0115Elnath.780.fits
+2017-10-25T12:41:31 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:41:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0116Elnath.823.fits
+2017-10-25T12:41:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:41:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0117Elnath.860.fits
+2017-10-25T12:41:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:41:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0118Elnath.780.fits
+2017-10-25T12:41:51 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:41:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0119Elnath.823.fits
+2017-10-25T12:41:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:42:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0120Elnath.860.fits
+2017-10-25T12:42:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:42:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0121Elnath.780.fits
+2017-10-25T12:42:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:42:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0122Elnath.823.fits
+2017-10-25T12:42:17 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:42:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0123Elnath.860.fits
+2017-10-25T12:42:29 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:42:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0124Elnath.780.fits
+2017-10-25T12:42:34 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:42:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0125Elnath.823.fits
+2017-10-25T12:42:40 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:42:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0126Elnath.860.fits
+2017-10-25T12:42:49 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:42:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0127Elnath.780.fits
+2017-10-25T12:42:53 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:43:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0128Elnath.823.fits
+2017-10-25T12:43:00 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:43:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0129Elnath.860.fits
+2017-10-25T12:43:09 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:43:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0130Elnath.780.fits
+2017-10-25T12:43:13 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:43:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0131Elnath.823.fits
+2017-10-25T12:43:20 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:43:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0132Elnath.860.fits
+2017-10-25T12:43:29 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:43:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0133Elnath.780.fits
+2017-10-25T12:43:33 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:43:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0134Elnath.823.fits
+2017-10-25T12:43:39 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:43:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0135Elnath.860.fits
+2017-10-25T12:43:48 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:43:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0136Elnath.780.fits
+2017-10-25T12:43:53 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:43:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0137Elnath.823.fits
+2017-10-25T12:43:59 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:44:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0138Elnath.860.fits
+2017-10-25T12:44:08 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:44:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0139Elnath.780.fits
+2017-10-25T12:44:13 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:44:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0140Elnath.823.fits
+2017-10-25T12:44:19 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:44:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0141Elnath.860.fits
+2017-10-25T12:44:28 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:44:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0142Elnath.780.fits
+2017-10-25T12:44:32 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:44:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0143Elnath.823.fits
+2017-10-25T12:44:39 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:44:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0144Elnath.860.fits
+2017-10-25T12:44:48 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:44:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0145Elnath.780.fits
+2017-10-25T12:44:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:44:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0146Elnath.823.fits
+2017-10-25T12:44:59 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:45:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0147Elnath.860.fits
+2017-10-25T12:45:08 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:45:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0148Elnath.780.fits
+2017-10-25T12:45:12 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:45:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0149Elnath.823.fits
+2017-10-25T12:45:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:45:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0150Elnath.860.fits
+2017-10-25T12:45:28 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:45:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0151Elnath.780.fits
+2017-10-25T12:45:32 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:45:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0152Elnath.823.fits
+2017-10-25T12:45:38 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:45:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0153Elnath.860.fits
+2017-10-25T12:45:48 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:45:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0154Elnath.780.fits
+2017-10-25T12:45:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:45:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0155Elnath.823.fits
+2017-10-25T12:45:58 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:46:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0156Elnath.860.fits
+2017-10-25T12:46:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:46:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0157Elnath.780.fits
+2017-10-25T12:46:12 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:46:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0158Elnath.823.fits
+2017-10-25T12:46:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:46:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0159Elnath.860.fits
+2017-10-25T12:46:27 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:46:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0160Elnath.780.fits
+2017-10-25T12:46:32 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:46:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0161Elnath.823.fits
+2017-10-25T12:46:38 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:46:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0162Elnath.860.fits
+2017-10-25T12:46:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:46:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0163Elnath.780.fits
+2017-10-25T12:46:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:46:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0164Elnath.823.fits
+2017-10-25T12:46:58 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:47:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0165Elnath.860.fits
+2017-10-25T12:47:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:47:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0166Elnath.780.fits
+2017-10-25T12:47:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:47:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0167Elnath.823.fits
+2017-10-25T12:47:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:47:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0168Elnath.860.fits
+2017-10-25T12:47:27 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:47:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0169Elnath.780.fits
+2017-10-25T12:47:31 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:47:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0170Elnath.823.fits
+2017-10-25T12:47:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:47:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0171Elnath.860.fits
+2017-10-25T12:47:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:47:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0172Elnath.780.fits
+2017-10-25T12:47:51 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:47:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0173Elnath.823.fits
+2017-10-25T12:47:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:48:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0174Elnath.860.fits
+2017-10-25T12:48:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:48:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0175Elnath.780.fits
+2017-10-25T12:48:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:48:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0176Elnath.823.fits
+2017-10-25T12:48:17 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:48:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0177Elnath.860.fits
+2017-10-25T12:48:26 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:48:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0178Elnath.780.fits
+2017-10-25T12:48:31 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:48:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0179Elnath.823.fits
+2017-10-25T12:48:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:48:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0180Elnath.860.fits
+2017-10-25T12:48:46 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:48:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0181Elnath.780.fits
+2017-10-25T12:48:51 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:48:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0182Elnath.823.fits
+2017-10-25T12:48:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:49:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0183Elnath.860.fits
+2017-10-25T12:49:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:49:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0184Elnath.780.fits
+2017-10-25T12:49:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:49:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0185Elnath.823.fits
+2017-10-25T12:49:17 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:49:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0186Elnath.860.fits
+2017-10-25T12:49:26 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:49:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0187Elnath.780.fits
+2017-10-25T12:49:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:49:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0188Elnath.823.fits
+2017-10-25T12:49:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:49:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0189Elnath.860.fits
+2017-10-25T12:49:46 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:49:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0190Elnath.780.fits
+2017-10-25T12:49:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:49:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0191Elnath.823.fits
+2017-10-25T12:49:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:50:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0192Elnath.860.fits
+2017-10-25T12:50:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:50:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0193Elnath.780.fits
+2017-10-25T12:50:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:50:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0194Elnath.823.fits
+2017-10-25T12:50:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:50:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0195Elnath.860.fits
+2017-10-25T12:50:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:50:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0196Elnath.780.fits
+2017-10-25T12:50:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:50:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0197Elnath.823.fits
+2017-10-25T12:50:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:50:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0198Elnath.860.fits
+2017-10-25T12:50:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:50:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0199Elnath.780.fits
+2017-10-25T12:50:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:50:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0200Elnath.823.fits
+2017-10-25T12:50:56 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:51:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0201Elnath.860.fits
+2017-10-25T12:51:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:51:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0202Elnath.780.fits
+2017-10-25T12:51:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:51:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0203Elnath.823.fits
+2017-10-25T12:51:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:51:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0204Elnath.860.fits
+2017-10-25T12:51:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:51:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0205Elnath.780.fits
+2017-10-25T12:51:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:51:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0206Elnath.823.fits
+2017-10-25T12:51:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:51:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0207Elnath.860.fits
+2017-10-25T12:51:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:51:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0208Elnath.780.fits
+2017-10-25T12:51:49 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:51:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0209Elnath.823.fits
+2017-10-25T12:51:56 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:52:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0210Elnath.860.fits
+2017-10-25T12:52:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:52:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0211Elnath.780.fits
+2017-10-25T12:52:09 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:52:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0212Elnath.823.fits
+2017-10-25T12:52:15 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:52:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0213Elnath.860.fits
+2017-10-25T12:52:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:52:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0214Elnath.780.fits
+2017-10-25T12:52:29 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:52:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0215Elnath.823.fits
+2017-10-25T12:52:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:52:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0216Elnath.860.fits
+2017-10-25T12:52:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:52:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0217Elnath.780.fits
+2017-10-25T12:52:52 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:52:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0218Elnath.823.fits
+2017-10-25T12:52:58 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:53:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0219Elnath.860.fits
+2017-10-25T12:53:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:53:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0220Elnath.780.fits
+2017-10-25T12:53:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:53:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0221Elnath.823.fits
+2017-10-25T12:53:18 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:53:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0222Elnath.860.fits
+2017-10-25T12:53:27 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:53:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0223Elnath.780.fits
+2017-10-25T12:53:31 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:53:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0224Elnath.823.fits
+2017-10-25T12:53:38 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:53:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0225Elnath.860.fits
+2017-10-25T12:53:47 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:53:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0226Elnath.780.fits
+2017-10-25T12:53:51 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:53:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0227Elnath.823.fits
+2017-10-25T12:53:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:54:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0228Elnath.860.fits
+2017-10-25T12:54:07 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:54:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0229Elnath.780.fits
+2017-10-25T12:54:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:54:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0230Elnath.823.fits
+2017-10-25T12:54:17 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:54:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0231Elnath.860.fits
+2017-10-25T12:54:26 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:54:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0232Elnath.780.fits
+2017-10-25T12:54:31 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:54:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0233Elnath.823.fits
+2017-10-25T12:54:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:54:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0234Elnath.860.fits
+2017-10-25T12:54:46 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:54:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0235Elnath.780.fits
+2017-10-25T12:54:51 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:54:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0236Elnath.823.fits
+2017-10-25T12:54:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:55:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0237Elnath.860.fits
+2017-10-25T12:55:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:55:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0238Elnath.780.fits
+2017-10-25T12:55:11 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:55:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0239Elnath.823.fits
+2017-10-25T12:55:17 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:55:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0240Elnath.860.fits
+2017-10-25T12:55:26 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:55:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0241Elnath.780.fits
+2017-10-25T12:55:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:55:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0242Elnath.823.fits
+2017-10-25T12:55:37 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:55:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0243Elnath.860.fits
+2017-10-25T12:55:46 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:55:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0244Elnath.780.fits
+2017-10-25T12:55:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:55:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0245Elnath.823.fits
+2017-10-25T12:55:57 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:56:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0246Elnath.860.fits
+2017-10-25T12:56:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:56:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0247Elnath.780.fits
+2017-10-25T12:56:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:56:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0248Elnath.823.fits
+2017-10-25T12:56:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:56:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0249Elnath.860.fits
+2017-10-25T12:56:26 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:56:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0250Elnath.780.fits
+2017-10-25T12:56:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:56:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0251Elnath.823.fits
+2017-10-25T12:56:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:56:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0252Elnath.860.fits
+2017-10-25T12:56:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:56:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0253Elnath.780.fits
+2017-10-25T12:56:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:56:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0254Elnath.823.fits
+2017-10-25T12:56:56 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:57:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0255Elnath.860.fits
+2017-10-25T12:57:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:57:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0256Elnath.780.fits
+2017-10-25T12:57:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:57:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0257Elnath.823.fits
+2017-10-25T12:57:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:57:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0258Elnath.860.fits
+2017-10-25T12:57:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:57:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0259Elnath.780.fits
+2017-10-25T12:57:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:57:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0260Elnath.823.fits
+2017-10-25T12:57:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:57:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0261Elnath.860.fits
+2017-10-25T12:57:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:57:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0262Elnath.780.fits
+2017-10-25T12:57:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:57:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0263Elnath.823.fits
+2017-10-25T12:57:56 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:58:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0264Elnath.860.fits
+2017-10-25T12:58:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:58:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0265Elnath.780.fits
+2017-10-25T12:58:09 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:58:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0266Elnath.823.fits
+2017-10-25T12:58:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:58:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0267Elnath.860.fits
+2017-10-25T12:58:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:58:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0268Elnath.780.fits
+2017-10-25T12:58:29 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:58:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0269Elnath.823.fits
+2017-10-25T12:58:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:58:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0270Elnath.860.fits
+2017-10-25T12:58:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:58:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0271Elnath.780.fits
+2017-10-25T12:58:49 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:58:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0272Elnath.823.fits
+2017-10-25T12:58:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:59:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0273Elnath.860.fits
+2017-10-25T12:59:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:59:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0274Elnath.780.fits
+2017-10-25T12:59:09 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:59:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0275Elnath.823.fits
+2017-10-25T12:59:15 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:59:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0276Elnath.860.fits
+2017-10-25T12:59:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:59:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0277Elnath.780.fits
+2017-10-25T12:59:29 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:59:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0278Elnath.823.fits
+2017-10-25T12:59:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T12:59:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0279Elnath.860.fits
+2017-10-25T12:59:44 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T12:59:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0280Elnath.780.fits
+2017-10-25T12:59:49 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T12:59:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0281Elnath.823.fits
+2017-10-25T12:59:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:00:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0282Elnath.860.fits
+2017-10-25T13:00:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:00:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0283Elnath.780.fits
+2017-10-25T13:00:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:00:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0284Elnath.823.fits
+2017-10-25T13:00:15 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:00:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0285Elnath.860.fits
+2017-10-25T13:00:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:00:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0286Elnath.780.fits
+2017-10-25T13:00:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:00:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0287Elnath.823.fits
+2017-10-25T13:00:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:00:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0288Elnath.860.fits
+2017-10-25T13:00:44 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:00:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0289Elnath.780.fits
+2017-10-25T13:00:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:00:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0290Elnath.823.fits
+2017-10-25T13:00:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:01:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0291Elnath.860.fits
+2017-10-25T13:01:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:01:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0292Elnath.780.fits
+2017-10-25T13:01:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:01:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0293Elnath.823.fits
+2017-10-25T13:01:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:01:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0294Elnath.860.fits
+2017-10-25T13:01:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:01:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0295Elnath.780.fits
+2017-10-25T13:01:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:01:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0296Elnath.823.fits
+2017-10-25T13:01:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:01:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0297Elnath.860.fits
+2017-10-25T13:01:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:01:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0298Elnath.780.fits
+2017-10-25T13:01:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:01:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0299Elnath.823.fits
+2017-10-25T13:01:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:02:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0300Elnath.860.fits
+2017-10-25T13:02:03 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:02:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0301Elnath.780.fits
+2017-10-25T13:02:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:02:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0302Elnath.823.fits
+2017-10-25T13:02:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:02:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0303Elnath.860.fits
+2017-10-25T13:02:23 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:02:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0304Elnath.780.fits
+2017-10-25T13:02:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:02:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0305Elnath.823.fits
+2017-10-25T13:02:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:02:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0306Elnath.860.fits
+2017-10-25T13:02:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:02:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0307Elnath.780.fits
+2017-10-25T13:02:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:02:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0308Elnath.823.fits
+2017-10-25T13:02:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:03:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0309Elnath.860.fits
+2017-10-25T13:03:06 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:03:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0310Elnath.780.fits
+2017-10-25T13:03:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:03:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0311Elnath.823.fits
+2017-10-25T13:03:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:03:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0312Elnath.860.fits
+2017-10-25T13:03:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:03:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0313Elnath.780.fits
+2017-10-25T13:03:30 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:03:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0314Elnath.823.fits
+2017-10-25T13:03:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:03:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0315Elnath.860.fits
+2017-10-25T13:03:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:03:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0316Elnath.780.fits
+2017-10-25T13:03:50 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:03:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0317Elnath.823.fits
+2017-10-25T13:03:56 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:04:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0318Elnath.860.fits
+2017-10-25T13:04:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:04:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0319Elnath.780.fits
+2017-10-25T13:04:10 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:04:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0320Elnath.823.fits
+2017-10-25T13:04:16 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:04:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0321Elnath.860.fits
+2017-10-25T13:04:25 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:04:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0322Elnath.780.fits
+2017-10-25T13:04:29 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:04:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0323Elnath.823.fits
+2017-10-25T13:04:36 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:04:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0324Elnath.860.fits
+2017-10-25T13:04:45 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:04:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0325Elnath.780.fits
+2017-10-25T13:04:49 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:04:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0326Elnath.823.fits
+2017-10-25T13:04:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:05:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0327Elnath.860.fits
+2017-10-25T13:05:05 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:05:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0328Elnath.780.fits
+2017-10-25T13:05:09 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:05:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0329Elnath.823.fits
+2017-10-25T13:05:15 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:05:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0330Elnath.860.fits
+2017-10-25T13:05:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:05:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0331Elnath.780.fits
+2017-10-25T13:05:29 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:05:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0332Elnath.823.fits
+2017-10-25T13:05:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:05:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0333Elnath.860.fits
+2017-10-25T13:05:44 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:05:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0334Elnath.780.fits
+2017-10-25T13:05:49 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:05:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0335Elnath.823.fits
+2017-10-25T13:05:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:06:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0336Elnath.860.fits
+2017-10-25T13:06:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:06:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0337Elnath.780.fits
+2017-10-25T13:06:09 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:06:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0338Elnath.823.fits
+2017-10-25T13:06:15 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:06:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0339Elnath.860.fits
+2017-10-25T13:06:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:06:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0340Elnath.780.fits
+2017-10-25T13:06:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:06:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0341Elnath.823.fits
+2017-10-25T13:06:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:06:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0342Elnath.860.fits
+2017-10-25T13:06:44 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:06:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0343Elnath.780.fits
+2017-10-25T13:06:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:06:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0344Elnath.823.fits
+2017-10-25T13:06:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:07:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0345Elnath.860.fits
+2017-10-25T13:07:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:07:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0346Elnath.780.fits
+2017-10-25T13:07:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:07:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0347Elnath.823.fits
+2017-10-25T13:07:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:07:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0348Elnath.860.fits
+2017-10-25T13:07:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:07:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0349Elnath.780.fits
+2017-10-25T13:07:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:07:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0350Elnath.823.fits
+2017-10-25T13:07:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:07:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0351Elnath.860.fits
+2017-10-25T13:07:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:07:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0352Elnath.780.fits
+2017-10-25T13:07:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:07:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0353Elnath.823.fits
+2017-10-25T13:07:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:08:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0354Elnath.860.fits
+2017-10-25T13:08:03 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:08:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0355Elnath.780.fits
+2017-10-25T13:08:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:08:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0356Elnath.823.fits
+2017-10-25T13:08:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:08:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0357Elnath.860.fits
+2017-10-25T13:08:23 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:08:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0358Elnath.780.fits
+2017-10-25T13:08:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:08:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0359Elnath.823.fits
+2017-10-25T13:08:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:08:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0360Elnath.860.fits
+2017-10-25T13:08:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:08:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0361Elnath.780.fits
+2017-10-25T13:08:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:08:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0362Elnath.823.fits
+2017-10-25T13:08:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:09:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0363Elnath.860.fits
+2017-10-25T13:09:03 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:09:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0364Elnath.780.fits
+2017-10-25T13:09:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:09:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0365Elnath.823.fits
+2017-10-25T13:09:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:09:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0366Elnath.860.fits
+2017-10-25T13:09:23 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:09:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0367Elnath.780.fits
+2017-10-25T13:09:27 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:09:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0368Elnath.823.fits
+2017-10-25T13:09:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:09:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0369Elnath.860.fits
+2017-10-25T13:09:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:09:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0370Elnath.780.fits
+2017-10-25T13:09:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:09:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0371Elnath.823.fits
+2017-10-25T13:09:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:10:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0372Elnath.860.fits
+2017-10-25T13:10:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:10:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0373Elnath.780.fits
+2017-10-25T13:10:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:10:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0374Elnath.823.fits
+2017-10-25T13:10:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:10:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0375Elnath.860.fits
+2017-10-25T13:10:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:10:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0376Elnath.780.fits
+2017-10-25T13:10:27 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:10:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0377Elnath.823.fits
+2017-10-25T13:10:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:10:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0378Elnath.860.fits
+2017-10-25T13:10:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:10:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0379Elnath.780.fits
+2017-10-25T13:10:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:10:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0380Elnath.823.fits
+2017-10-25T13:10:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:11:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0381Elnath.860.fits
+2017-10-25T13:11:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:11:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0382Elnath.780.fits
+2017-10-25T13:11:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:11:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0383Elnath.823.fits
+2017-10-25T13:11:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:11:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0384Elnath.860.fits
+2017-10-25T13:11:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:11:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0385Elnath.780.fits
+2017-10-25T13:11:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:11:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0386Elnath.823.fits
+2017-10-25T13:11:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:11:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0387Elnath.860.fits
+2017-10-25T13:11:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:11:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0388Elnath.780.fits
+2017-10-25T13:11:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:11:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0389Elnath.823.fits
+2017-10-25T13:11:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:12:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0390Elnath.860.fits
+2017-10-25T13:12:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:12:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0391Elnath.780.fits
+2017-10-25T13:12:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:12:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0392Elnath.823.fits
+2017-10-25T13:12:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:12:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0393Elnath.860.fits
+2017-10-25T13:12:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:12:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0394Elnath.780.fits
+2017-10-25T13:12:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:12:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0395Elnath.823.fits
+2017-10-25T13:12:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:12:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0396Elnath.860.fits
+2017-10-25T13:12:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:12:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0397Elnath.780.fits
+2017-10-25T13:12:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:12:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0398Elnath.823.fits
+2017-10-25T13:12:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:13:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0399Elnath.860.fits
+2017-10-25T13:13:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:13:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0400Elnath.780.fits
+2017-10-25T13:13:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:13:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0401Elnath.823.fits
+2017-10-25T13:13:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:13:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0402Elnath.860.fits
+2017-10-25T13:13:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:13:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0403Elnath.780.fits
+2017-10-25T13:13:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:13:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0404Elnath.823.fits
+2017-10-25T13:13:35 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:13:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0405Elnath.860.fits
+2017-10-25T13:13:44 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:13:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0406Elnath.780.fits
+2017-10-25T13:13:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:13:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0407Elnath.823.fits
+2017-10-25T13:13:55 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:14:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0408Elnath.860.fits
+2017-10-25T13:14:04 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:14:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0409Elnath.780.fits
+2017-10-25T13:14:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:14:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0410Elnath.823.fits
+2017-10-25T13:14:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:14:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0411Elnath.860.fits
+2017-10-25T13:14:24 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:14:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0412Elnath.780.fits
+2017-10-25T13:14:28 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:14:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0413Elnath.823.fits
+2017-10-25T13:14:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:14:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0414Elnath.860.fits
+2017-10-25T13:14:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:14:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0415Elnath.780.fits
+2017-10-25T13:14:48 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:14:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0416Elnath.823.fits
+2017-10-25T13:14:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:15:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0417Elnath.860.fits
+2017-10-25T13:15:03 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:15:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0418Elnath.780.fits
+2017-10-25T13:15:08 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:15:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0419Elnath.823.fits
+2017-10-25T13:15:14 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:15:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0420Elnath.860.fits
+2017-10-25T13:15:23 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:15:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0421Elnath.780.fits
+2017-10-25T13:15:27 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:15:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0422Elnath.823.fits
+2017-10-25T13:15:34 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:15:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0423Elnath.860.fits
+2017-10-25T13:15:43 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:15:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0424Elnath.780.fits
+2017-10-25T13:15:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:15:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0425Elnath.823.fits
+2017-10-25T13:15:54 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:16:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0426Elnath.860.fits
+2017-10-25T13:16:03 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:16:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0427Elnath.780.fits
+2017-10-25T13:16:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:16:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0428Elnath.823.fits
+2017-10-25T13:16:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:16:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0429Elnath.860.fits
+2017-10-25T13:16:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:16:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0430Elnath.780.fits
+2017-10-25T13:16:27 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:16:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0431Elnath.823.fits
+2017-10-25T13:16:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:16:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0432Elnath.860.fits
+2017-10-25T13:16:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:16:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0433Elnath.780.fits
+2017-10-25T13:16:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:16:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0434Elnath.823.fits
+2017-10-25T13:16:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:17:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0435Elnath.860.fits
+2017-10-25T13:17:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:17:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0436Elnath.780.fits
+2017-10-25T13:17:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:17:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0437Elnath.823.fits
+2017-10-25T13:17:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:17:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0438Elnath.860.fits
+2017-10-25T13:17:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:17:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0439Elnath.780.fits
+2017-10-25T13:17:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:17:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0440Elnath.823.fits
+2017-10-25T13:17:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:17:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0441Elnath.860.fits
+2017-10-25T13:17:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:17:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0442Elnath.780.fits
+2017-10-25T13:17:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:17:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0443Elnath.823.fits
+2017-10-25T13:17:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:18:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0444Elnath.860.fits
+2017-10-25T13:18:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:18:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0445Elnath.780.fits
+2017-10-25T13:18:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:18:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0446Elnath.823.fits
+2017-10-25T13:18:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:18:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0447Elnath.860.fits
+2017-10-25T13:18:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:18:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0448Elnath.780.fits
+2017-10-25T13:18:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:18:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0449Elnath.823.fits
+2017-10-25T13:18:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:18:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0450Elnath.860.fits
+2017-10-25T13:18:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:18:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0451Elnath.780.fits
+2017-10-25T13:18:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:18:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0452Elnath.823.fits
+2017-10-25T13:18:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:19:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0453Elnath.860.fits
+2017-10-25T13:19:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:19:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0454Elnath.780.fits
+2017-10-25T13:19:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:19:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0455Elnath.823.fits
+2017-10-25T13:19:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:19:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0456Elnath.860.fits
+2017-10-25T13:19:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:19:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0457Elnath.780.fits
+2017-10-25T13:19:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:19:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0458Elnath.823.fits
+2017-10-25T13:19:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:19:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0459Elnath.860.fits
+2017-10-25T13:19:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:19:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0460Elnath.780.fits
+2017-10-25T13:19:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:19:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0461Elnath.823.fits
+2017-10-25T13:19:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:20:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0462Elnath.860.fits
+2017-10-25T13:20:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:20:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0463Elnath.780.fits
+2017-10-25T13:20:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:20:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0464Elnath.823.fits
+2017-10-25T13:20:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:20:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0465Elnath.860.fits
+2017-10-25T13:20:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:20:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0466Elnath.780.fits
+2017-10-25T13:20:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:20:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0467Elnath.823.fits
+2017-10-25T13:20:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:20:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0468Elnath.860.fits
+2017-10-25T13:20:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:20:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0469Elnath.780.fits
+2017-10-25T13:20:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:20:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0470Elnath.823.fits
+2017-10-25T13:20:51 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:21:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0471Elnath.860.fits
+2017-10-25T13:21:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:21:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0472Elnath.780.fits
+2017-10-25T13:21:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:21:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0473Elnath.823.fits
+2017-10-25T13:21:11 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:21:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0474Elnath.860.fits
+2017-10-25T13:21:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:21:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0475Elnath.780.fits
+2017-10-25T13:21:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:21:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0476Elnath.823.fits
+2017-10-25T13:21:31 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:21:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0477Elnath.860.fits
+2017-10-25T13:21:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:21:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0478Elnath.780.fits
+2017-10-25T13:21:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:21:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0479Elnath.823.fits
+2017-10-25T13:21:51 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:21:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0480Elnath.860.fits
+2017-10-25T13:22:00 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:22:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0481Elnath.780.fits
+2017-10-25T13:22:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:22:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0482Elnath.823.fits
+2017-10-25T13:22:11 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:22:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0483Elnath.860.fits
+2017-10-25T13:22:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:22:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0484Elnath.780.fits
+2017-10-25T13:22:24 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:22:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0485Elnath.823.fits
+2017-10-25T13:22:31 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:22:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0486Elnath.860.fits
+2017-10-25T13:22:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:22:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0487Elnath.780.fits
+2017-10-25T13:22:44 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:22:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0488Elnath.823.fits
+2017-10-25T13:22:50 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:22:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0489Elnath.860.fits
+2017-10-25T13:23:00 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:23:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0490Elnath.780.fits
+2017-10-25T13:23:04 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:23:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0491Elnath.823.fits
+2017-10-25T13:23:10 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:23:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0492Elnath.860.fits
+2017-10-25T13:23:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:23:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0493Elnath.780.fits
+2017-10-25T13:23:24 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:23:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0494Elnath.823.fits
+2017-10-25T13:23:30 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:23:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0495Elnath.860.fits
+2017-10-25T13:23:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:23:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0496Elnath.780.fits
+2017-10-25T13:23:47 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:23:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0497Elnath.823.fits
+2017-10-25T13:23:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:24:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0498Elnath.860.fits
+2017-10-25T13:24:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:24:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0499Elnath.780.fits
+2017-10-25T13:24:07 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:24:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0500Elnath.823.fits
+2017-10-25T13:24:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:24:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0501Elnath.860.fits
+2017-10-25T13:24:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:24:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0502Elnath.780.fits
+2017-10-25T13:24:27 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:24:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0503Elnath.823.fits
+2017-10-25T13:24:33 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:24:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0504Elnath.860.fits
+2017-10-25T13:24:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:24:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0505Elnath.780.fits
+2017-10-25T13:24:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:24:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0506Elnath.823.fits
+2017-10-25T13:24:53 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:25:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0507Elnath.860.fits
+2017-10-25T13:25:02 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:25:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0508Elnath.780.fits
+2017-10-25T13:25:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:25:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0509Elnath.823.fits
+2017-10-25T13:25:13 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:25:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0510Elnath.860.fits
+2017-10-25T13:25:22 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:25:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0511Elnath.780.fits
+2017-10-25T13:25:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:25:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0512Elnath.823.fits
+2017-10-25T13:25:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:25:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0513Elnath.860.fits
+2017-10-25T13:25:42 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:25:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0514Elnath.780.fits
+2017-10-25T13:25:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:25:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0515Elnath.823.fits
+2017-10-25T13:25:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:26:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0516Elnath.860.fits
+2017-10-25T13:26:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:26:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0517Elnath.780.fits
+2017-10-25T13:26:06 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:26:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0518Elnath.823.fits
+2017-10-25T13:26:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:26:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0519Elnath.860.fits
+2017-10-25T13:26:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:26:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0520Elnath.780.fits
+2017-10-25T13:26:26 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:26:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0521Elnath.823.fits
+2017-10-25T13:26:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:26:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0522Elnath.860.fits
+2017-10-25T13:26:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:26:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0523Elnath.780.fits
+2017-10-25T13:26:46 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:26:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0524Elnath.823.fits
+2017-10-25T13:26:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:27:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0525Elnath.860.fits
+2017-10-25T13:27:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:27:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0526Elnath.780.fits
+2017-10-25T13:27:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:27:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0527Elnath.823.fits
+2017-10-25T13:27:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:27:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0528Elnath.860.fits
+2017-10-25T13:27:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:27:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0529Elnath.780.fits
+2017-10-25T13:27:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:27:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0530Elnath.823.fits
+2017-10-25T13:27:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:27:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0531Elnath.860.fits
+2017-10-25T13:27:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:27:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0532Elnath.780.fits
+2017-10-25T13:27:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:27:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0533Elnath.823.fits
+2017-10-25T13:27:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:28:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0534Elnath.860.fits
+2017-10-25T13:28:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:28:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0535Elnath.780.fits
+2017-10-25T13:28:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:28:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0536Elnath.823.fits
+2017-10-25T13:28:11 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:28:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0537Elnath.860.fits
+2017-10-25T13:28:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:28:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0538Elnath.780.fits
+2017-10-25T13:28:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:28:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0539Elnath.823.fits
+2017-10-25T13:28:31 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:28:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0540Elnath.860.fits
+2017-10-25T13:28:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:28:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0541Elnath.780.fits
+2017-10-25T13:28:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:28:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0542Elnath.823.fits
+2017-10-25T13:28:51 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:28:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0543Elnath.860.fits
+2017-10-25T13:29:00 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:29:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0544Elnath.780.fits
+2017-10-25T13:29:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:29:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0545Elnath.823.fits
+2017-10-25T13:29:11 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:29:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0546Elnath.860.fits
+2017-10-25T13:29:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:29:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0547Elnath.780.fits
+2017-10-25T13:29:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:29:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0548Elnath.823.fits
+2017-10-25T13:29:31 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:29:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0549Elnath.860.fits
+2017-10-25T13:29:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:29:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0550Elnath.780.fits
+2017-10-25T13:29:44 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:29:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0551Elnath.823.fits
+2017-10-25T13:29:51 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:29:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0552Elnath.860.fits
+2017-10-25T13:30:00 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:30:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0553Elnath.780.fits
+2017-10-25T13:30:04 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:30:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0554Elnath.823.fits
+2017-10-25T13:30:10 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:30:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0555Elnath.860.fits
+2017-10-25T13:30:20 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:30:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0556Elnath.780.fits
+2017-10-25T13:30:24 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:30:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0557Elnath.823.fits
+2017-10-25T13:30:30 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:30:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0558Elnath.860.fits
+2017-10-25T13:30:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:30:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0559Elnath.780.fits
+2017-10-25T13:30:44 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:30:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0560Elnath.823.fits
+2017-10-25T13:30:50 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:30:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0561Elnath.860.fits
+2017-10-25T13:30:59 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:31:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0562Elnath.780.fits
+2017-10-25T13:31:04 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:31:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0563Elnath.823.fits
+2017-10-25T13:31:10 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:31:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0564Elnath.860.fits
+2017-10-25T13:31:19 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:31:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0565Elnath.780.fits
+2017-10-25T13:31:24 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:31:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0566Elnath.823.fits
+2017-10-25T13:31:30 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:31:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0567Elnath.860.fits
+2017-10-25T13:31:39 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:31:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0568Elnath.780.fits
+2017-10-25T13:31:44 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:31:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0569Elnath.823.fits
+2017-10-25T13:31:50 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:31:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0570Elnath.860.fits
+2017-10-25T13:31:59 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:32:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0571Elnath.780.fits
+2017-10-25T13:32:03 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:32:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0572Elnath.823.fits
+2017-10-25T13:32:10 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:32:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0573Elnath.860.fits
+2017-10-25T13:32:19 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:32:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0574Elnath.780.fits
+2017-10-25T13:32:23 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:32:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0575Elnath.823.fits
+2017-10-25T13:32:29 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:32:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0576Elnath.860.fits
+2017-10-25T13:32:39 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:32:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0577Elnath.780.fits
+2017-10-25T13:32:43 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:32:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0578Elnath.823.fits
+2017-10-25T13:32:49 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:32:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0579Elnath.860.fits
+2017-10-25T13:32:58 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:33:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0580Elnath.780.fits
+2017-10-25T13:33:03 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:33:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0581Elnath.823.fits
+2017-10-25T13:33:09 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:33:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0582Elnath.860.fits
+2017-10-25T13:33:18 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:33:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0583Elnath.780.fits
+2017-10-25T13:33:23 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:33:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0584Elnath.823.fits
+2017-10-25T13:33:29 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:33:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0585Elnath.860.fits
+2017-10-25T13:33:38 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:33:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0586Elnath.780.fits
+2017-10-25T13:33:43 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:33:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0587Elnath.823.fits
+2017-10-25T13:33:49 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:33:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0588Elnath.860.fits
+2017-10-25T13:34:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:34:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0589Elnath.780.fits
+2017-10-25T13:34:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:34:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0590Elnath.823.fits
+2017-10-25T13:34:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:34:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0591Elnath.860.fits
+2017-10-25T13:34:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:34:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0592Elnath.780.fits
+2017-10-25T13:34:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:34:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0593Elnath.823.fits
+2017-10-25T13:34:32 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:34:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0594Elnath.860.fits
+2017-10-25T13:34:41 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:34:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0595Elnath.780.fits
+2017-10-25T13:34:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:34:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0596Elnath.823.fits
+2017-10-25T13:34:52 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:35:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0597Elnath.860.fits
+2017-10-25T13:35:01 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:35:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0598Elnath.780.fits
+2017-10-25T13:35:05 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:35:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0599Elnath.823.fits
+2017-10-25T13:35:12 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:35:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0600Elnath.860.fits
+2017-10-25T13:35:21 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:35:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0601Elnath.780.fits
+2017-10-25T13:35:25 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:35:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0602Elnath.823.fits
+2017-10-25T13:35:31 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:35:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0603Elnath.860.fits
+2017-10-25T13:35:40 [main.py:227 - takeImage()] INFO: Taking 1.82 second image
+2017-10-25T13:35:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0604Elnath.780.fits
+2017-10-25T13:35:45 [main.py:227 - takeImage()] INFO: Taking 2.29 second image
+2017-10-25T13:35:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0605Elnath.823.fits
+2017-10-25T13:35:51 [main.py:227 - takeImage()] INFO: Taking 5.52 second image
+2017-10-25T13:35:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171025//0606Elnath.860.fits
+2017-10-25T13:36:00 [main.py:569 - <module>()] INFO: Elnath done; moving on to next target
+2017-10-25T13:36:11 [main.py:33 - endNight()] INFO: Parking/Disconnection from Telescope
+2017-10-25T13:36:11 [main.py:38 - endNight()] INFO: Compressing data
+2017-10-25T13:36:11 [main.py:43 - endNight()] INFO: Disconnecting imager
+2017-10-25T13:36:36 [main.py:49 - endNight()] INFO: Backing Up data
+2017-10-25T13:36:36 [main.py:55 - endNight()] INFO: Copying schedule file from ./schedule/n20171025 to C:/camal/data/n20171025/
+2017-10-25T13:36:36 [main.py:62 - endNight()] INFO: Copying log file ./logs/n20171025\main.log to C:/camal/data/n20171025/
+2017-10-25T13:36:40 [main.py:597 - <module>()] INFO: Updating Reduction File list

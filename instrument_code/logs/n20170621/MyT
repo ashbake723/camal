@@ -1,0 +1,52 @@
+2017-06-21T04:43:08 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2017-06-21T04:43:11 [cTelescope.py:69 - initialize()] INFO:  Connected to telescope now
+2017-06-21T04:43:12 [cTelescope.py:77 - initialize()] INFO: Telescope Unparked
+2017-06-21T04:43:45 [cTelescope.py:134 - home()] INFO: Telescope Finding Home Position
+2017-06-21T04:43:55 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038228166, DEC: 49.2323698255
+2017-06-21T04:53:57 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.803822772, DEC: 49.2323701174
+2017-06-21T05:04:06 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038227276, DEC: 49.2323704082
+2017-06-21T05:14:22 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038226828, DEC: 49.2323707019
+2017-06-21T05:24:35 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038226381, DEC: 49.232370994
+2017-06-21T05:34:49 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038225934, DEC: 49.2323712863
+2017-06-21T05:45:04 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038225487, DEC: 49.2323715787
+2017-06-21T05:55:18 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038225041, DEC: 49.2323718702
+2017-06-21T06:05:33 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 13.8038224594, DEC: 49.232372162
+2017-06-21T06:09:20 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008603083, DEC: 45.3419071355
+2017-06-21T06:19:32 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008603654, DEC: 45.3419078266
+2017-06-21T06:29:45 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008604216, DEC: 45.3419085054
+2017-06-21T06:39:57 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008604778, DEC: 45.3419091848
+2017-06-21T06:50:11 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700860534, DEC: 45.3419098653
+2017-06-21T07:00:25 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008605904, DEC: 45.3419105467
+2017-06-21T07:10:38 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008606467, DEC: 45.3419112273
+2017-06-21T07:20:51 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700860703, DEC: 45.3419119077
+2017-06-21T07:31:04 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008607594, DEC: 45.3419125888
+2017-06-21T07:41:18 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008608158, DEC: 45.3419132696
+2017-06-21T07:51:31 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008608722, DEC: 45.3419139512
+2017-06-21T08:01:44 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008609287, DEC: 45.3419146333
+2017-06-21T08:11:57 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008609851, DEC: 45.341915315
+2017-06-21T08:22:10 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008610416, DEC: 45.3419159969
+2017-06-21T08:32:24 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008610981, DEC: 45.3419166797
+2017-06-21T08:42:37 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008611547, DEC: 45.3419173629
+2017-06-21T08:52:52 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008612115, DEC: 45.3419180474
+2017-06-21T09:03:06 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008612682, DEC: 45.3419187318
+2017-06-21T09:13:21 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008613249, DEC: 45.3419194164
+2017-06-21T09:23:34 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008613816, DEC: 45.3419201004
+2017-06-21T09:33:47 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008614383, DEC: 45.3419207844
+2017-06-21T09:44:02 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008614951, DEC: 45.3419214697
+2017-06-21T09:54:39 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700861552, DEC: 45.3419221552
+2017-06-21T10:04:54 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008616111, DEC: 45.3419228675
+2017-06-21T10:15:08 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008616679, DEC: 45.3419235531
+2017-06-21T10:25:23 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008617249, DEC: 45.3419242398
+2017-06-21T10:35:38 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700861782, DEC: 45.3419249274
+2017-06-21T10:45:52 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700861839, DEC: 45.3419256145
+2017-06-21T10:56:07 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008618961, DEC: 45.3419263022
+2017-06-21T11:06:23 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008619532, DEC: 45.3419269901
+2017-06-21T11:16:37 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008620103, DEC: 45.3419276783
+2017-06-21T11:26:52 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008620674, DEC: 45.3419283659
+2017-06-21T11:37:07 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008621246, DEC: 45.3419290545
+2017-06-21T11:47:22 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.7008621818, DEC: 45.3419297433
+2017-06-21T11:57:37 [cTelescope.py:97 - gotoObject()] INFO: Slewing to RA: 20.700862239, DEC: 45.3419304323
+2017-06-21T12:00:12 [cTelescope.py:130 - park()] INFO: Telescope Parked
+2017-06-21T12:00:12 [cTelescope.py:141 - shutDown()] INFO: Parking telescope
+2017-06-21T12:00:12 [cTelescope.py:147 - shutDown()] INFO: Telescope Parked
+2017-06-21T12:00:12 [cTelescope.py:154 - shutDown()] INFO: Disconnected from Telescope but not in the SkyX

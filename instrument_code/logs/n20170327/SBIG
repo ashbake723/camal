@@ -1,0 +1,54 @@
+2017-03-27T02:08:52 [cCamera.py:72 - connect()] INFO: Connecting to theSkyX
+2017-03-27T02:09:50 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-27T02:09:50 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-27T02:09:52 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-27T02:09:52 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-27T02:09:56 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-27T02:09:56 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-27T02:09:56 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-27T02:09:56 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-27T02:09:56 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-27T02:09:56 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-27T02:09:56 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T02:09:56 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T02:10:01 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to 0 C , Amb Temp= 19.5182381976
+2017-03-27T02:10:01 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to 0 C , Amb Temp= 19.5182381976
+2017-03-27T02:10:01 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-27T02:10:01 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-27T02:12:39 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-27T02:12:39 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-27T02:12:41 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-27T02:12:41 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-27T02:12:41 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170327//0001BIAS.0.fits
+2017-03-27T02:12:41 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170327//0001BIAS.0.fits
+2017-03-27T03:16:28 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-27T03:16:28 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-27T03:16:28 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-27T03:16:28 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-27T03:16:28 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-27T03:16:28 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T03:16:34 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= 0.189018727865
+2017-03-27T03:16:34 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-27T03:19:01 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-27T03:19:03 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-27T03:19:03 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170327//0002BIAS.0.fits
+2017-03-27T03:27:47 [cCamera.py:72 - connect()] INFO: Connecting to theSkyX
+2017-03-27T03:52:06 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-27T03:52:06 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-27T03:52:06 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-27T03:52:06 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-27T03:52:07 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-27T03:52:07 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-27T03:52:07 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-27T03:52:07 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-27T03:52:07 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-27T03:52:07 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-27T03:52:07 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T03:52:07 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T03:53:34 [cCamera.py:72 - connect()] INFO: Connecting to theSkyX
+2017-03-27T03:59:07 [cCamera.py:72 - connect()] INFO: Connecting to theSkyX
+2017-03-27T03:59:11 [cCamera.py:77 - connect()] INFO: Connecting to camera
+2017-03-27T03:59:17 [cCamera.py:87 - connect()] INFO: Camera binning set to 2x2
+2017-03-27T03:59:17 [cCamera.py:142 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-27T03:59:22 [cCamera.py:177 - coolCCD()] INFO: Cooling camera to 5.0 C , Amb Temp= 17.0
+2017-03-27T03:59:22 [cCamera.py:178 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%

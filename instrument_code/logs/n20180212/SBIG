@@ -1,0 +1,683 @@
+2018-02-12T01:05:39 [cCamera.py:459 - connect()] INFO: Connecting to Maxim
+2018-02-12T01:05:39 [cCamera.py:463 - connect()] INFO: Connecting to camera
+2018-02-12T01:05:44 [cCamera.py:471 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2018-02-12T01:05:44 [cCamera.py:476 - connect()] INFO: Preventing maxim from closing upon exit
+2018-02-12T01:05:44 [cCamera.py:346 - setBinning()] INFO: Camera binning set to 2x2
+2018-02-12T01:05:44 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:05:49 [cCamera.py:380 - coolCCD()] INFO: Cooling camera to 0 C , Amb Temp= 17.4530058303
+2018-02-12T01:05:49 [cCamera.py:381 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2018-02-12T01:08:55 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:08:55 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:08:57 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:08:57 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0001BIAS.0.fits
+2018-02-12T01:08:57 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:08:57 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:08:59 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:08:59 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0002BIAS.0.fits
+2018-02-12T01:08:59 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:08:59 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:02 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:02 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0003BIAS.0.fits
+2018-02-12T01:09:02 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:02 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:04 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:04 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0004BIAS.0.fits
+2018-02-12T01:09:04 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:04 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:06 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:06 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0005BIAS.0.fits
+2018-02-12T01:09:06 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:06 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:08 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:09 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0006BIAS.0.fits
+2018-02-12T01:09:09 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:09 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:11 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:11 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0007BIAS.0.fits
+2018-02-12T01:09:11 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:11 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:13 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:13 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0008BIAS.0.fits
+2018-02-12T01:09:13 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:13 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:15 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:15 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0009BIAS.0.fits
+2018-02-12T01:09:15 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:15 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:17 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:17 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0010BIAS.0.fits
+2018-02-12T01:09:17 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:17 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:19 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:19 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0011BIAS.0.fits
+2018-02-12T01:09:19 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:19 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:21 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:21 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0012BIAS.0.fits
+2018-02-12T01:09:21 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:21 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:24 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:24 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0013BIAS.0.fits
+2018-02-12T01:09:24 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:24 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:26 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:26 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0014BIAS.0.fits
+2018-02-12T01:09:26 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:26 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:28 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:28 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0015BIAS.0.fits
+2018-02-12T01:09:28 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:28 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:31 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:31 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0016BIAS.0.fits
+2018-02-12T01:09:31 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:31 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:33 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:33 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0017BIAS.0.fits
+2018-02-12T01:09:33 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:33 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:34 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:34 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0018BIAS.0.fits
+2018-02-12T01:09:34 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:34 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:36 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:36 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0019BIAS.0.fits
+2018-02-12T01:09:36 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:36 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:38 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:38 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0020BIAS.0.fits
+2018-02-12T01:09:38 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:38 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:40 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:40 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0021BIAS.0.fits
+2018-02-12T01:09:40 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:40 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:43 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:43 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0022BIAS.0.fits
+2018-02-12T01:09:43 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:43 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:44 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:44 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0023BIAS.0.fits
+2018-02-12T01:09:44 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:44 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:46 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:46 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0024BIAS.0.fits
+2018-02-12T01:09:46 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:46 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:49 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:49 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0025BIAS.0.fits
+2018-02-12T01:09:49 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:49 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:51 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:51 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0026BIAS.0.fits
+2018-02-12T01:09:51 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:51 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:53 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:53 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0027BIAS.0.fits
+2018-02-12T01:09:53 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:53 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:55 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:55 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0028BIAS.0.fits
+2018-02-12T01:09:55 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:55 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:57 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:57 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0029BIAS.0.fits
+2018-02-12T01:09:57 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T01:09:57 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T01:09:59 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T01:09:59 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0030BIAS.0.fits
+2018-02-12T02:01:36 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:01:36 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:01:44 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:01:44 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0031Elnath.780.fits
+2018-02-12T02:01:44 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:01:44 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:01:50 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:01:50 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0032Elnath.823.fits
+2018-02-12T02:01:50 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:01:50 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:01:58 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:01:58 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0033Elnath.860.fits
+2018-02-12T02:02:00 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:00 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:05 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:05 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0034Elnath.780.fits
+2018-02-12T02:02:05 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:05 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:12 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:12 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0035Elnath.823.fits
+2018-02-12T02:02:12 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:12 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:20 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:20 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0036Elnath.860.fits
+2018-02-12T02:02:22 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:22 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:27 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:27 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0037Elnath.780.fits
+2018-02-12T02:02:27 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:27 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:33 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:33 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0038Elnath.823.fits
+2018-02-12T02:02:33 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:33 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:42 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:42 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0039Elnath.860.fits
+2018-02-12T02:02:43 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:43 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:48 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:48 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0040Elnath.780.fits
+2018-02-12T02:02:48 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:48 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:02:55 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:02:55 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0041Elnath.823.fits
+2018-02-12T02:02:55 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:02:55 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:03 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:03 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0042Elnath.860.fits
+2018-02-12T02:03:05 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:05 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:10 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:10 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0043Elnath.780.fits
+2018-02-12T02:03:10 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:10 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:17 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:17 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0044Elnath.823.fits
+2018-02-12T02:03:17 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:17 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:25 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:25 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0045Elnath.860.fits
+2018-02-12T02:03:26 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:26 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:32 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:32 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0046Elnath.780.fits
+2018-02-12T02:03:32 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:32 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:38 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:38 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0047Elnath.823.fits
+2018-02-12T02:03:38 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:38 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:46 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:46 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0048Elnath.860.fits
+2018-02-12T02:03:48 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:48 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:03:53 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:03:53 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0049Elnath.780.fits
+2018-02-12T02:03:53 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:03:53 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:00 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:00 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0050Elnath.823.fits
+2018-02-12T02:04:00 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:00 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:08 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:08 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0051Elnath.860.fits
+2018-02-12T02:04:09 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:09 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:15 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:15 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0052Elnath.780.fits
+2018-02-12T02:04:15 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:15 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:21 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:21 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0053Elnath.823.fits
+2018-02-12T02:04:21 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:21 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:29 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:29 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0054Elnath.860.fits
+2018-02-12T02:04:31 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:31 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:36 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:36 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0055Elnath.780.fits
+2018-02-12T02:04:36 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:36 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:43 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:43 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0056Elnath.823.fits
+2018-02-12T02:04:43 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:43 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:51 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:51 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0057Elnath.860.fits
+2018-02-12T02:04:52 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:52 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:04:58 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:04:58 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0058Elnath.780.fits
+2018-02-12T02:04:58 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:04:58 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:04 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:04 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0059Elnath.823.fits
+2018-02-12T02:05:04 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:04 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:12 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:12 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0060Elnath.860.fits
+2018-02-12T02:05:14 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:14 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:19 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:19 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0061Elnath.780.fits
+2018-02-12T02:05:19 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:19 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:26 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:26 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0062Elnath.823.fits
+2018-02-12T02:05:26 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:26 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:34 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:34 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0063Elnath.860.fits
+2018-02-12T02:05:36 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:36 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:41 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:41 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0064Elnath.780.fits
+2018-02-12T02:05:41 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:41 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:47 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:47 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0065Elnath.823.fits
+2018-02-12T02:05:47 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:47 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:05:56 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:05:56 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0066Elnath.860.fits
+2018-02-12T02:05:57 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:05:57 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:02 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:02 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0067Elnath.780.fits
+2018-02-12T02:06:02 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:02 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:09 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:09 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0068Elnath.823.fits
+2018-02-12T02:06:09 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:09 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:17 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:17 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0069Elnath.860.fits
+2018-02-12T02:06:19 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:19 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:24 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:24 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0070Elnath.780.fits
+2018-02-12T02:06:24 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:24 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:30 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:30 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0071Elnath.823.fits
+2018-02-12T02:06:30 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:30 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:39 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:39 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0072Elnath.860.fits
+2018-02-12T02:06:40 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:40 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:45 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:45 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0073Elnath.780.fits
+2018-02-12T02:06:45 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:45 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:06:52 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:06:52 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0074Elnath.823.fits
+2018-02-12T02:06:52 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:06:52 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:00 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:00 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0075Elnath.860.fits
+2018-02-12T02:07:02 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:02 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:07 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:07 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0076Elnath.780.fits
+2018-02-12T02:07:07 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:07 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:14 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:14 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0077Elnath.823.fits
+2018-02-12T02:07:14 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:14 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:22 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:22 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0078Elnath.860.fits
+2018-02-12T02:07:23 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:23 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:29 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:29 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0079Elnath.780.fits
+2018-02-12T02:07:29 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:29 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:35 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:35 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0080Elnath.823.fits
+2018-02-12T02:07:35 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:35 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:43 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:43 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0081Elnath.860.fits
+2018-02-12T02:07:45 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:45 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:50 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:50 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0082Elnath.780.fits
+2018-02-12T02:07:50 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:50 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:07:57 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:07:57 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0083Elnath.823.fits
+2018-02-12T02:07:57 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:07:57 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:05 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:05 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0084Elnath.860.fits
+2018-02-12T02:08:06 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:06 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:12 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:12 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0085Elnath.780.fits
+2018-02-12T02:08:12 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:12 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:18 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:18 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0086Elnath.823.fits
+2018-02-12T02:08:18 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:18 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:26 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:26 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0087Elnath.860.fits
+2018-02-12T02:08:28 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:28 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:33 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:33 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0088Elnath.780.fits
+2018-02-12T02:08:33 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:33 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:40 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:40 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0089Elnath.823.fits
+2018-02-12T02:08:40 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:40 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:48 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:48 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0090Elnath.860.fits
+2018-02-12T02:08:49 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:49 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:08:55 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:08:55 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0091Elnath.780.fits
+2018-02-12T02:08:55 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:08:55 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:01 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:01 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0092Elnath.823.fits
+2018-02-12T02:09:01 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:01 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:09 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:09 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0093Elnath.860.fits
+2018-02-12T02:09:11 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:11 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:16 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:16 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0094Elnath.780.fits
+2018-02-12T02:09:16 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:16 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:23 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:23 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0095Elnath.823.fits
+2018-02-12T02:09:23 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:23 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:31 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:31 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0096Elnath.860.fits
+2018-02-12T02:09:33 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:33 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:38 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:38 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0097Elnath.780.fits
+2018-02-12T02:09:38 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:38 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:44 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:45 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0098Elnath.823.fits
+2018-02-12T02:09:45 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:45 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:53 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:53 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0099Elnath.860.fits
+2018-02-12T02:09:54 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:54 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:09:59 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:09:59 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0100Elnath.780.fits
+2018-02-12T02:09:59 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:09:59 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:06 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:06 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0101Elnath.823.fits
+2018-02-12T02:10:06 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:06 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:14 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:14 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0102Elnath.860.fits
+2018-02-12T02:10:16 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:16 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:21 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:21 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0103Elnath.780.fits
+2018-02-12T02:10:21 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:21 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:28 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:28 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0104Elnath.823.fits
+2018-02-12T02:10:28 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:28 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:36 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:36 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0105Elnath.860.fits
+2018-02-12T02:10:37 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:37 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:43 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:43 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0106Elnath.780.fits
+2018-02-12T02:10:43 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:43 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:49 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:49 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0107Elnath.823.fits
+2018-02-12T02:10:49 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:49 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:10:57 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:10:57 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0108Elnath.860.fits
+2018-02-12T02:10:59 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:10:59 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:04 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:04 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0109Elnath.780.fits
+2018-02-12T02:11:04 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:04 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:11 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:11 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0110Elnath.823.fits
+2018-02-12T02:11:11 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:11 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:19 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:19 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0111Elnath.860.fits
+2018-02-12T02:11:21 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:21 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:26 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:26 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0112Elnath.780.fits
+2018-02-12T02:11:26 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:26 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:32 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:32 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0113Elnath.823.fits
+2018-02-12T02:11:32 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:32 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:41 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:41 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0114Elnath.860.fits
+2018-02-12T02:11:43 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:43 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:48 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:48 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0115Elnath.780.fits
+2018-02-12T02:11:48 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:48 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:11:55 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:11:55 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0116Elnath.823.fits
+2018-02-12T02:11:55 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:11:55 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:03 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:03 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0117Elnath.860.fits
+2018-02-12T02:12:04 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:04 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:10 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:10 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0118Elnath.780.fits
+2018-02-12T02:12:10 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:10 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:16 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:16 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0119Elnath.823.fits
+2018-02-12T02:12:16 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:16 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:24 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:25 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0120Elnath.860.fits
+2018-02-12T02:12:26 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:26 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:31 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:31 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0121Elnath.780.fits
+2018-02-12T02:12:31 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:31 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:38 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:38 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0122Elnath.823.fits
+2018-02-12T02:12:38 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:38 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:46 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:46 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0123Elnath.860.fits
+2018-02-12T02:12:48 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:48 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:53 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:12:53 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0124Elnath.780.fits
+2018-02-12T02:12:53 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:12:53 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:12:59 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:13:00 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0125Elnath.823.fits
+2018-02-12T02:13:00 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:13:00 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:13:08 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:13:08 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0126Elnath.860.fits
+2018-02-12T02:13:09 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:13:09 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:13:14 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:13:14 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0127Elnath.780.fits
+2018-02-12T02:13:14 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:13:14 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:13:21 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:13:21 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0128Elnath.823.fits
+2018-02-12T02:13:21 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T02:13:21 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T02:13:29 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T02:40:33 [cCamera.py:459 - connect()] INFO: Connecting to Maxim
+2018-02-12T02:40:33 [cCamera.py:463 - connect()] INFO: Connecting to camera
+2018-02-12T02:40:34 [cCamera.py:471 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2018-02-12T02:40:34 [cCamera.py:476 - connect()] INFO: Preventing maxim from closing upon exit
+2018-02-12T02:40:34 [cCamera.py:346 - setBinning()] INFO: Camera binning set to 2x2
+2018-02-12T02:40:34 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:40:39 [cCamera.py:380 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -0.231815405223
+2018-02-12T02:40:39 [cCamera.py:381 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2018-02-12T02:48:12 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:12 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:14 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:14 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0129BIAS.0.fits
+2018-02-12T02:48:14 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:14 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:16 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:16 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0130BIAS.0.fits
+2018-02-12T02:48:16 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:16 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:19 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:19 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0131BIAS.0.fits
+2018-02-12T02:48:19 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:19 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:21 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:21 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0132BIAS.0.fits
+2018-02-12T02:48:21 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:21 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:22 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:22 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0133BIAS.0.fits
+2018-02-12T02:48:22 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:22 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:25 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:25 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0134BIAS.0.fits
+2018-02-12T02:48:25 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:25 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:27 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:27 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0135BIAS.0.fits
+2018-02-12T02:48:27 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:27 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:29 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:29 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0136BIAS.0.fits
+2018-02-12T02:48:29 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:29 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:32 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:32 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0137BIAS.0.fits
+2018-02-12T02:48:32 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:32 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:34 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:34 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0138BIAS.0.fits
+2018-02-12T02:48:34 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:34 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:36 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:36 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0139BIAS.0.fits
+2018-02-12T02:48:36 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:36 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:38 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:38 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0140BIAS.0.fits
+2018-02-12T02:48:38 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:38 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:40 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:40 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0141BIAS.0.fits
+2018-02-12T02:48:40 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:40 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:42 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:42 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0142BIAS.0.fits
+2018-02-12T02:48:42 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:42 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:45 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:45 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0143BIAS.0.fits
+2018-02-12T02:48:45 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:45 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:47 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:47 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0144BIAS.0.fits
+2018-02-12T02:48:47 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:47 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:48 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:48 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0145BIAS.0.fits
+2018-02-12T02:48:49 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:49 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:51 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:51 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0146BIAS.0.fits
+2018-02-12T02:48:51 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:51 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:53 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:53 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0147BIAS.0.fits
+2018-02-12T02:48:53 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:53 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:55 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:55 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0148BIAS.0.fits
+2018-02-12T02:48:55 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:55 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:48:58 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:48:58 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0149BIAS.0.fits
+2018-02-12T02:48:58 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:48:58 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:00 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:00 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0150BIAS.0.fits
+2018-02-12T02:49:00 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:00 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:02 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:02 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0151BIAS.0.fits
+2018-02-12T02:49:02 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:02 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:05 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:05 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0152BIAS.0.fits
+2018-02-12T02:49:05 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:05 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:07 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:07 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0153BIAS.0.fits
+2018-02-12T02:49:07 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:07 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:09 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:09 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0154BIAS.0.fits
+2018-02-12T02:49:09 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:09 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:12 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:12 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0155BIAS.0.fits
+2018-02-12T02:49:12 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:12 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:14 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:14 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0156BIAS.0.fits
+2018-02-12T02:49:14 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:14 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:15 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:15 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0157BIAS.0.fits
+2018-02-12T02:49:15 [cCamera.py:330 - setFrame()] INFO: Camera set to full-frame mode
+2018-02-12T02:49:15 [cCamera.py:314 - Expose()] INFO: Exposing Dark frame...
+2018-02-12T02:49:18 [cCamera.py:318 - Expose()] INFO: Dark frame exposure and download complete!
+2018-02-12T02:49:18 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0158BIAS.0.fits
+2018-02-12T03:02:00 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:02:00 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:02:06 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:02:06 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0159Elnath.780.fits
+2018-02-12T03:02:17 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:02:17 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:02:20 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:02:20 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0160Elnath.780.fits
+2018-02-12T03:02:34 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:02:34 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:02:37 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:02:37 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0161Elnath.780.fits
+2018-02-12T03:02:38 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:02:38 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:02:41 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:02:41 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0162Elnath.780.fits
+2018-02-12T03:18:27 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:18:27 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:18:34 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:18:34 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0163Elnath.780.fits
+2018-02-12T03:18:43 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:18:43 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:18:46 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:18:46 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0164Elnath.780.fits
+2018-02-12T03:19:00 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:19:00 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:19:03 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:19:03 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0165Elnath.780.fits
+2018-02-12T03:19:20 [cCamera.py:336 - setFrame()] INFO: Camera set to subframe. Note: Inputs must consider binning.
+2018-02-12T03:19:20 [cCamera.py:306 - Expose()] INFO: Exposing light frame...
+2018-02-12T03:19:24 [cCamera.py:310 - Expose()] INFO: Light frame exposure and download complete!
+2018-02-12T03:19:24 [cCamera.py:354 - saveImage()] INFO: saved file to C:/camal/data/n20180212//0166Elnath.780.fits

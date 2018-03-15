@@ -1,0 +1,15 @@
+2017-06-16T02:38:24 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-06-16T02:38:24 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-06-16T02:38:24 [cCamera.py:90 - connect()] INFO: Camera binning set to 2x2
+2017-06-16T02:38:24 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-06-16T02:38:29 [cCamera.py:182 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -100.0
+2017-06-16T02:38:29 [cCamera.py:183 - coolCCD()] INFO: Waiting for Camera Temperature to match Set Temp to within 0.4 Celcius
+2017-06-16T02:48:29 [cCamera.py:192 - coolCCD()] INFO: Cooling Took Too Long, changing settemp to -10.0
+2017-06-16T02:48:29 [cCamera.py:195 - coolCCD()] WARNING: Camera failed to Cool! Time: 0
+2017-06-16T02:58:29 [cCamera.py:192 - coolCCD()] INFO: Cooling Took Too Long, changing settemp to -5.0
+2017-06-16T02:58:29 [cCamera.py:195 - coolCCD()] WARNING: Camera failed to Cool! Time: 1
+2017-06-16T03:08:30 [cCamera.py:192 - coolCCD()] INFO: Cooling Took Too Long, changing settemp to 0.0
+2017-06-16T03:08:30 [cCamera.py:195 - coolCCD()] WARNING: Camera failed to Cool! Time: 2
+2017-06-16T03:18:30 [cCamera.py:192 - coolCCD()] INFO: Cooling Took Too Long, changing settemp to -5.0
+2017-06-16T03:18:30 [cCamera.py:195 - coolCCD()] WARNING: Camera failed to Cool! Time: 3
+2017-06-16T03:18:30 [cCamera.py:198 - coolCCD()] ERROR: Camera failed to cool!

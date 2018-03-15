@@ -1,0 +1,9 @@
+2018-02-12T00:45:15 [cTelescope.py:47 - __init__()] INFO: Connecting to The Sky...
+2018-02-12T02:00:58 [cTelescope.py:73 - initialize()] INFO:  Connected to telescope now
+2018-02-12T02:01:28 [cTelescope.py:140 - home()] INFO: Telescope Finding Home Position
+2018-02-12T02:01:35 [cTelescope.py:103 - gotoObject()] INFO: Slewing to RA: 0.0, DEC: 0.0
+2018-02-12T02:11:43 [cTelescope.py:103 - gotoObject()] INFO: Slewing to RA: 0.0, DEC: 0.0
+2018-02-12T02:40:28 [cTelescope.py:47 - __init__()] INFO: Connecting to The Sky...
+2018-02-12T02:49:23 [cTelescope.py:73 - initialize()] INFO:  Connected to telescope now
+2018-02-12T02:49:45 [cTelescope.py:140 - home()] INFO: Telescope Finding Home Position
+2018-02-12T03:01:25 [cTelescope.py:103 - gotoObject()] INFO: Slewing to RA: 0.0, DEC: 0.0

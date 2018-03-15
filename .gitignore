@@ -1,0 +1,4 @@
+# Ignore folders with data files and schedules
+data/
+final/
+schedule/

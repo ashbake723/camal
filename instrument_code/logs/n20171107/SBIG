@@ -1,0 +1,992 @@
+2017-11-07T00:45:27 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T00:45:27 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:26:41 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:26:41 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:26:51 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:26:51 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:27:02 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:27:02 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:27:41 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:27:48 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:27:53 [cCamera.py:90 - connect()] INFO: Camera binning set to 2x2
+2017-11-07T02:27:53 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:27:58 [cCamera.py:182 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= 14.4780050459
+2017-11-07T02:27:58 [cCamera.py:183 - coolCCD()] INFO: Waiting for Camera Temperature to match Set Temp to within 0.4 Celcius
+2017-11-07T02:31:58 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:31:58 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:00 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:00 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0001BIAS.0.fits
+2017-11-07T02:32:00 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:00 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:02 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0002BIAS.0.fits
+2017-11-07T02:32:02 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:02 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:03 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:03 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0003BIAS.0.fits
+2017-11-07T02:32:03 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:03 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:04 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:04 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0004BIAS.0.fits
+2017-11-07T02:32:04 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:04 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:05 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:05 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0005BIAS.0.fits
+2017-11-07T02:32:05 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:05 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:06 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0006BIAS.0.fits
+2017-11-07T02:32:07 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:07 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:08 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0007BIAS.0.fits
+2017-11-07T02:32:08 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:08 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:09 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:09 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0008BIAS.0.fits
+2017-11-07T02:32:09 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:09 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:10 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:10 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0009BIAS.0.fits
+2017-11-07T02:32:10 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:10 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:11 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:11 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0010BIAS.0.fits
+2017-11-07T02:32:12 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:12 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:13 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0011BIAS.0.fits
+2017-11-07T02:32:13 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:13 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:14 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0012BIAS.0.fits
+2017-11-07T02:32:14 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:14 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:15 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:15 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0013BIAS.0.fits
+2017-11-07T02:32:15 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:15 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:16 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:16 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0014BIAS.0.fits
+2017-11-07T02:32:16 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:16 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:17 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0015BIAS.0.fits
+2017-11-07T02:32:18 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:18 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:19 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:19 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0016BIAS.0.fits
+2017-11-07T02:32:19 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:19 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:20 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:20 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0017BIAS.0.fits
+2017-11-07T02:32:20 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:20 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:21 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:21 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0018BIAS.0.fits
+2017-11-07T02:32:21 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:21 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:22 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0019BIAS.0.fits
+2017-11-07T02:32:22 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:22 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:24 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0020BIAS.0.fits
+2017-11-07T02:32:24 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:24 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:25 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:25 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0021BIAS.0.fits
+2017-11-07T02:32:25 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:25 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:26 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:26 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0022BIAS.0.fits
+2017-11-07T02:32:26 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:26 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:27 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0023BIAS.0.fits
+2017-11-07T02:32:27 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:27 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:28 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:28 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0024BIAS.0.fits
+2017-11-07T02:32:28 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:28 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:30 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:30 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0025BIAS.0.fits
+2017-11-07T02:32:30 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:30 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:31 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:31 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0026BIAS.0.fits
+2017-11-07T02:32:31 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:31 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:32 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0027BIAS.0.fits
+2017-11-07T02:32:32 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:32 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:33 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:33 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0028BIAS.0.fits
+2017-11-07T02:32:33 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:33 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:34 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:35 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0029BIAS.0.fits
+2017-11-07T02:32:35 [cCamera.py:145 - setFrame()] INFO: Camera set to full-frame mode
+2017-11-07T02:32:35 [cCamera.py:122 - Expose()] INFO: Exposing Dark frame...
+2017-11-07T02:32:36 [cCamera.py:130 - Expose()] INFO: Dark frame exposure and download complete!
+2017-11-07T02:32:36 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0030BIAS.0.fits
+2017-11-07T02:33:27 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:27 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:31 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:31 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0031Deneb.780.fits
+2017-11-07T02:33:31 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:31 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:36 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:36 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0032Deneb.823.fits
+2017-11-07T02:33:36 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:36 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:42 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0033Deneb.860.fits
+2017-11-07T02:33:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:46 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:46 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0034Deneb.780.fits
+2017-11-07T02:33:46 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:46 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:51 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:51 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0035Deneb.823.fits
+2017-11-07T02:33:51 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:51 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:33:57 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:33:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0036Deneb.860.fits
+2017-11-07T02:33:58 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:33:58 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:01 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:01 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0037Deneb.780.fits
+2017-11-07T02:34:01 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:01 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:07 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0038Deneb.823.fits
+2017-11-07T02:34:07 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:07 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:12 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:12 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0039Deneb.860.fits
+2017-11-07T02:34:13 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:13 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:17 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:17 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0040Deneb.780.fits
+2017-11-07T02:34:17 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:17 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:22 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0041Deneb.823.fits
+2017-11-07T02:34:22 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:22 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:27 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0042Deneb.860.fits
+2017-11-07T02:34:28 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:28 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:32 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0043Deneb.780.fits
+2017-11-07T02:34:32 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:32 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:37 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:37 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0044Deneb.823.fits
+2017-11-07T02:34:37 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:37 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:43 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0045Deneb.860.fits
+2017-11-07T02:34:44 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:44 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:47 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:47 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0046Deneb.780.fits
+2017-11-07T02:34:47 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:47 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:52 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0047Deneb.823.fits
+2017-11-07T02:34:52 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:52 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:34:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:34:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0048Deneb.860.fits
+2017-11-07T02:34:59 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:34:59 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:02 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0049Deneb.780.fits
+2017-11-07T02:35:02 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:02 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:08 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0050Deneb.823.fits
+2017-11-07T02:35:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:13 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0051Deneb.860.fits
+2017-11-07T02:35:14 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:14 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:18 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0052Deneb.780.fits
+2017-11-07T02:35:18 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:18 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:23 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:23 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0053Deneb.823.fits
+2017-11-07T02:35:23 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:23 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:28 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:28 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0054Deneb.860.fits
+2017-11-07T02:35:29 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:29 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:33 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:33 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0055Deneb.780.fits
+2017-11-07T02:35:33 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:33 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:38 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:38 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0056Deneb.823.fits
+2017-11-07T02:35:38 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:38 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:43 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:43 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0057Deneb.860.fits
+2017-11-07T02:35:44 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:44 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:48 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:48 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0058Deneb.780.fits
+2017-11-07T02:35:48 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:48 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:53 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:53 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0059Deneb.823.fits
+2017-11-07T02:35:53 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:53 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:35:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:35:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0060Deneb.860.fits
+2017-11-07T02:35:59 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:35:59 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:03 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:03 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0061Deneb.780.fits
+2017-11-07T02:36:03 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:03 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:08 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0062Deneb.823.fits
+2017-11-07T02:36:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:14 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0063Deneb.860.fits
+2017-11-07T02:36:15 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:15 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:18 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0064Deneb.780.fits
+2017-11-07T02:36:18 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:18 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:24 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0065Deneb.823.fits
+2017-11-07T02:36:24 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:24 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:29 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:29 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0066Deneb.860.fits
+2017-11-07T02:36:30 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:30 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:34 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:34 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0067Deneb.780.fits
+2017-11-07T02:36:34 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:34 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:39 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:39 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0068Deneb.823.fits
+2017-11-07T02:36:39 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:39 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:44 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:44 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0069Deneb.860.fits
+2017-11-07T02:36:45 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:45 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:49 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:49 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0070Deneb.780.fits
+2017-11-07T02:36:49 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:49 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:54 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:54 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0071Deneb.823.fits
+2017-11-07T02:36:54 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:36:54 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:36:59 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:36:59 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0072Deneb.860.fits
+2017-11-07T02:37:00 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:00 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:04 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:04 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0073Deneb.780.fits
+2017-11-07T02:37:04 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:04 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:09 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:09 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0074Deneb.823.fits
+2017-11-07T02:37:09 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:09 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:15 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:15 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0075Deneb.860.fits
+2017-11-07T02:37:16 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:16 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:19 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:19 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0076Deneb.780.fits
+2017-11-07T02:37:19 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:19 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:24 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0077Deneb.823.fits
+2017-11-07T02:37:24 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:24 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:30 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:30 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0078Deneb.860.fits
+2017-11-07T02:37:31 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:31 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:34 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:34 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0079Deneb.780.fits
+2017-11-07T02:37:34 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:34 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:40 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:40 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0080Deneb.823.fits
+2017-11-07T02:37:40 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:40 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:45 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:45 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0081Deneb.860.fits
+2017-11-07T02:37:46 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:46 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:50 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:50 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0082Deneb.780.fits
+2017-11-07T02:37:50 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:50 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:37:55 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:37:55 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0083Deneb.823.fits
+2017-11-07T02:37:55 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:37:55 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:00 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:00 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0084Deneb.860.fits
+2017-11-07T02:38:01 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:01 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:05 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:05 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0085Deneb.780.fits
+2017-11-07T02:38:05 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:05 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:10 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:10 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0086Deneb.823.fits
+2017-11-07T02:38:10 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:10 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:15 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:15 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0087Deneb.860.fits
+2017-11-07T02:38:16 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:16 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:20 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:20 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0088Deneb.780.fits
+2017-11-07T02:38:20 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:20 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:25 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:25 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0089Deneb.823.fits
+2017-11-07T02:38:25 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:25 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:31 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:31 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0090Deneb.860.fits
+2017-11-07T02:38:32 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:32 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:35 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:35 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0091Deneb.780.fits
+2017-11-07T02:38:35 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:35 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:40 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:40 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0092Deneb.823.fits
+2017-11-07T02:38:40 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:40 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:46 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:46 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0093Deneb.860.fits
+2017-11-07T02:38:47 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:47 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:50 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:51 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0094Deneb.780.fits
+2017-11-07T02:38:51 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:51 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:38:56 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:38:56 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0095Deneb.823.fits
+2017-11-07T02:38:56 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:38:56 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:01 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:01 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0096Deneb.860.fits
+2017-11-07T02:39:02 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:02 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:06 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:06 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0097Deneb.780.fits
+2017-11-07T02:39:06 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:06 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:11 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:11 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0098Deneb.823.fits
+2017-11-07T02:39:11 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:11 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:16 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:16 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0099Deneb.860.fits
+2017-11-07T02:39:17 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:17 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:21 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:21 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0100Deneb.780.fits
+2017-11-07T02:39:21 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:21 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:26 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:26 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0101Deneb.823.fits
+2017-11-07T02:39:26 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:26 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:32 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0102Deneb.860.fits
+2017-11-07T02:39:33 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:33 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:36 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:36 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0103Deneb.780.fits
+2017-11-07T02:39:36 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:36 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:41 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:41 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0104Deneb.823.fits
+2017-11-07T02:39:41 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:41 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:47 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:47 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0105Deneb.860.fits
+2017-11-07T02:39:48 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:48 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:51 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:51 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0106Deneb.780.fits
+2017-11-07T02:39:51 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:51 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:39:57 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:39:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0107Deneb.823.fits
+2017-11-07T02:39:57 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:39:57 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:02 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0108Deneb.860.fits
+2017-11-07T02:40:03 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:03 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:07 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0109Deneb.780.fits
+2017-11-07T02:40:07 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:07 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:12 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:12 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0110Deneb.823.fits
+2017-11-07T02:40:12 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:12 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:17 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:17 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0111Deneb.860.fits
+2017-11-07T02:40:18 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:18 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:22 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0112Deneb.780.fits
+2017-11-07T02:40:22 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:22 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:27 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0113Deneb.823.fits
+2017-11-07T02:40:27 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:27 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:32 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0114Deneb.860.fits
+2017-11-07T02:40:33 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:33 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:37 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:37 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0115Deneb.780.fits
+2017-11-07T02:40:37 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:37 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:42 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0116Deneb.823.fits
+2017-11-07T02:40:42 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:42 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:48 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:48 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0117Deneb.860.fits
+2017-11-07T02:40:49 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:49 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:52 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0118Deneb.780.fits
+2017-11-07T02:40:52 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:52 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:40:57 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:40:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0119Deneb.823.fits
+2017-11-07T02:40:57 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:40:57 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:03 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:03 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0120Deneb.860.fits
+2017-11-07T02:41:04 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:04 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:07 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0121Deneb.780.fits
+2017-11-07T02:41:07 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:07 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:13 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0122Deneb.823.fits
+2017-11-07T02:41:13 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:13 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:18 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0123Deneb.860.fits
+2017-11-07T02:41:19 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:19 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:23 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:23 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0124Deneb.780.fits
+2017-11-07T02:41:23 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:23 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:28 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:28 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0125Deneb.823.fits
+2017-11-07T02:41:28 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:28 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:33 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:33 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0126Deneb.860.fits
+2017-11-07T02:41:34 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:34 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:38 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:38 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0127Deneb.780.fits
+2017-11-07T02:41:38 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:38 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:43 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:43 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0128Deneb.823.fits
+2017-11-07T02:41:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:48 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:48 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0129Deneb.860.fits
+2017-11-07T02:41:49 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:49 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:53 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:53 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0130Deneb.780.fits
+2017-11-07T02:41:53 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:53 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:41:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:41:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0131Deneb.823.fits
+2017-11-07T02:41:58 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:41:58 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:04 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:04 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0132Deneb.860.fits
+2017-11-07T02:42:05 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:05 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:08 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0133Deneb.780.fits
+2017-11-07T02:42:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:13 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0134Deneb.823.fits
+2017-11-07T02:42:13 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:13 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:19 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:19 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0135Deneb.860.fits
+2017-11-07T02:42:20 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:20 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:24 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0136Deneb.780.fits
+2017-11-07T02:42:24 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:24 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:29 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:29 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0137Deneb.823.fits
+2017-11-07T02:42:29 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:29 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:34 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:34 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0138Deneb.860.fits
+2017-11-07T02:42:35 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:35 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:39 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:39 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0139Deneb.780.fits
+2017-11-07T02:42:39 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:39 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:44 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:44 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0140Deneb.823.fits
+2017-11-07T02:42:44 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:44 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:49 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:49 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0141Deneb.860.fits
+2017-11-07T02:42:50 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:50 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:54 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:54 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0142Deneb.780.fits
+2017-11-07T02:42:54 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:54 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:42:59 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:42:59 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0143Deneb.823.fits
+2017-11-07T02:42:59 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:42:59 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:05 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:05 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0144Deneb.860.fits
+2017-11-07T02:43:06 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:06 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:09 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:09 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0145Deneb.780.fits
+2017-11-07T02:43:09 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:09 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:14 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0146Deneb.823.fits
+2017-11-07T02:43:14 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:14 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:20 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:20 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0147Deneb.860.fits
+2017-11-07T02:43:21 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:21 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:24 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0148Deneb.780.fits
+2017-11-07T02:43:24 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:24 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:30 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:30 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0149Deneb.823.fits
+2017-11-07T02:43:30 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:30 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:35 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:35 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0150Deneb.860.fits
+2017-11-07T02:43:38 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:38 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:41 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:41 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0151Deneb.780.fits
+2017-11-07T02:43:41 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:41 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:46 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:46 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0152Deneb.823.fits
+2017-11-07T02:43:46 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:46 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:52 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0153Deneb.860.fits
+2017-11-07T02:43:53 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:53 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:43:56 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:43:56 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0154Deneb.780.fits
+2017-11-07T02:43:56 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:43:56 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:01 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:01 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0155Deneb.823.fits
+2017-11-07T02:44:01 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:01 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:07 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0156Deneb.860.fits
+2017-11-07T02:44:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:12 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:12 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0157Deneb.780.fits
+2017-11-07T02:44:12 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:12 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:17 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:17 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0158Deneb.823.fits
+2017-11-07T02:44:17 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:17 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:22 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0159Deneb.860.fits
+2017-11-07T02:44:23 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:23 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:27 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0160Deneb.780.fits
+2017-11-07T02:44:27 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:27 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:32 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0161Deneb.823.fits
+2017-11-07T02:44:32 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:32 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:37 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:44:37 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:44:37 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:38 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0162Deneb.860.fits
+2017-11-07T02:44:39 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:39 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:42 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0163Deneb.780.fits
+2017-11-07T02:44:42 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:42 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:47 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:47 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0164Deneb.823.fits
+2017-11-07T02:44:47 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:47 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:53 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:53 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0165Deneb.860.fits
+2017-11-07T02:44:54 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:54 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:44:57 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:44:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0166Deneb.780.fits
+2017-11-07T02:44:57 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:44:57 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:02 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0167Deneb.823.fits
+2017-11-07T02:45:02 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:02 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:08 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0168Deneb.860.fits
+2017-11-07T02:45:09 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:09 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:13 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0169Deneb.780.fits
+2017-11-07T02:45:13 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:13 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:18 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0170Deneb.823.fits
+2017-11-07T02:45:18 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:18 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:23 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:23 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0171Deneb.860.fits
+2017-11-07T02:45:24 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:24 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:28 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:28 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0172Deneb.780.fits
+2017-11-07T02:45:28 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:28 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:33 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:33 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0173Deneb.823.fits
+2017-11-07T02:45:33 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:33 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:38 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:38 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0174Deneb.860.fits
+2017-11-07T02:45:39 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:39 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:43 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:43 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0175Deneb.780.fits
+2017-11-07T02:45:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:48 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:48 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0176Deneb.823.fits
+2017-11-07T02:45:48 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:48 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:54 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:54 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0177Deneb.860.fits
+2017-11-07T02:45:55 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:55 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:45:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:45:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0178Deneb.780.fits
+2017-11-07T02:45:58 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:45:58 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:04 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:04 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0179Deneb.823.fits
+2017-11-07T02:46:04 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:04 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:09 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:09 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0180Deneb.860.fits
+2017-11-07T02:46:10 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:10 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:14 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0181Deneb.780.fits
+2017-11-07T02:46:14 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:14 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:19 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:19 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0182Deneb.823.fits
+2017-11-07T02:46:19 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:19 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:24 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:24 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0183Deneb.860.fits
+2017-11-07T02:46:25 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:25 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:29 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:29 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0184Deneb.780.fits
+2017-11-07T02:46:29 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:29 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:34 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:34 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0185Deneb.823.fits
+2017-11-07T02:46:34 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:34 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:39 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:40 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0186Deneb.860.fits
+2017-11-07T02:46:41 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:41 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:44 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:44 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0187Deneb.780.fits
+2017-11-07T02:46:44 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:44 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:49 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:49 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0188Deneb.823.fits
+2017-11-07T02:46:49 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:49 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:55 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:55 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0189Deneb.860.fits
+2017-11-07T02:46:56 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:56 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:46:59 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:46:59 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0190Deneb.780.fits
+2017-11-07T02:46:59 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:46:59 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:04 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:04 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0191Deneb.823.fits
+2017-11-07T02:47:04 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:04 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:10 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:10 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0192Deneb.860.fits
+2017-11-07T02:47:11 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:11 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:14 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0193Deneb.780.fits
+2017-11-07T02:47:14 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:14 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:20 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:20 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0194Deneb.823.fits
+2017-11-07T02:47:20 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:20 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:25 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:25 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0195Deneb.860.fits
+2017-11-07T02:47:26 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:26 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:27 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:47:27 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:47:30 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:30 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0196Deneb.780.fits
+2017-11-07T02:47:30 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:30 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:35 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:35 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0197Deneb.823.fits
+2017-11-07T02:47:35 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:35 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:40 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:40 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0198Deneb.860.fits
+2017-11-07T02:47:41 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:41 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:45 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:45 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0199Deneb.780.fits
+2017-11-07T02:47:45 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:45 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:50 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:50 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0200Deneb.823.fits
+2017-11-07T02:47:50 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:50 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:47:56 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:47:56 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0201Deneb.860.fits
+2017-11-07T02:47:57 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:47:57 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:00 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:00 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0202Deneb.780.fits
+2017-11-07T02:48:00 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:00 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:05 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:05 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0203Deneb.823.fits
+2017-11-07T02:48:05 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:05 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:11 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:11 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0204Deneb.860.fits
+2017-11-07T02:48:12 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:12 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:16 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:16 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0205Deneb.780.fits
+2017-11-07T02:48:16 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:16 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:21 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:21 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0206Deneb.823.fits
+2017-11-07T02:48:21 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:21 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:26 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:26 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0207Deneb.860.fits
+2017-11-07T02:48:27 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:27 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:31 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:31 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0208Deneb.780.fits
+2017-11-07T02:48:31 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:31 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:36 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:36 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0209Deneb.823.fits
+2017-11-07T02:48:36 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:36 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:42 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0210Deneb.860.fits
+2017-11-07T02:48:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:43 [cCamera.py:75 - connect()] INFO: Connecting to theSkyX
+2017-11-07T02:48:43 [cCamera.py:80 - connect()] INFO: Connecting to camera
+2017-11-07T02:48:46 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:46 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0211Deneb.780.fits
+2017-11-07T02:48:46 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:46 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:51 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:51 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0212Deneb.823.fits
+2017-11-07T02:48:51 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:51 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:48:57 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:48:57 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0213Deneb.860.fits
+2017-11-07T02:48:58 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:48:58 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:01 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:01 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0214Deneb.780.fits
+2017-11-07T02:49:01 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:01 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:06 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:06 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0215Deneb.823.fits
+2017-11-07T02:49:06 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:06 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:12 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:12 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0216Deneb.860.fits
+2017-11-07T02:49:13 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:13 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:16 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:16 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0217Deneb.780.fits
+2017-11-07T02:49:16 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:16 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:22 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:22 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0218Deneb.823.fits
+2017-11-07T02:49:22 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:22 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:27 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:27 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0219Deneb.860.fits
+2017-11-07T02:49:28 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:28 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:32 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:32 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0220Deneb.780.fits
+2017-11-07T02:49:32 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:32 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:37 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:37 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0221Deneb.823.fits
+2017-11-07T02:49:37 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:37 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:42 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:42 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0222Deneb.860.fits
+2017-11-07T02:49:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:47 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:47 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0223Deneb.780.fits
+2017-11-07T02:49:47 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:47 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:52 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0224Deneb.823.fits
+2017-11-07T02:49:52 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:52 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:49:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:49:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0225Deneb.860.fits
+2017-11-07T02:49:59 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:49:59 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:02 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:02 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0226Deneb.780.fits
+2017-11-07T02:50:02 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:02 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:07 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:07 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0227Deneb.823.fits
+2017-11-07T02:50:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:13 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:13 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0228Deneb.860.fits
+2017-11-07T02:50:14 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:14 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:18 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:18 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0229Deneb.780.fits
+2017-11-07T02:50:18 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:18 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:23 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:23 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0230Deneb.823.fits
+2017-11-07T02:50:23 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:23 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:28 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:28 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0231Deneb.860.fits
+2017-11-07T02:50:29 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:29 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:33 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:33 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0232Deneb.780.fits
+2017-11-07T02:50:33 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:33 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:38 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:38 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0233Deneb.823.fits
+2017-11-07T02:50:38 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:38 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:44 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:44 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0234Deneb.860.fits
+2017-11-07T02:50:45 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:45 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:48 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:48 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0235Deneb.780.fits
+2017-11-07T02:50:48 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:48 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:53 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:53 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0236Deneb.823.fits
+2017-11-07T02:50:53 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:50:53 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:50:59 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:50:59 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0237Deneb.860.fits
+2017-11-07T02:51:00 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:51:00 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:51:03 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:51:03 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0238Deneb.780.fits
+2017-11-07T02:51:03 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:51:03 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:51:08 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:51:08 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0239Deneb.823.fits
+2017-11-07T02:51:08 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T02:51:08 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T02:51:14 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T02:51:14 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0240Deneb.860.fits
+2017-11-07T14:33:43 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T14:33:43 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T14:33:47 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T14:33:47 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0241Deneb.780.fits
+2017-11-07T14:33:47 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T14:33:47 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T14:33:52 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T14:33:52 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0242Deneb.823.fits
+2017-11-07T14:33:52 [cCamera.py:154 - setFrame()] INFO: Camera set to subframe. Note: Inputs must ignore binning.
+2017-11-07T14:33:52 [cCamera.py:108 - Expose()] INFO: Exposing light frame...
+2017-11-07T14:33:58 [cCamera.py:118 - Expose()] INFO: Light frame exposure and download complete!
+2017-11-07T14:33:58 [cCamera.py:136 - saveImage()] INFO: saved file to C:/camal/data/n20171107//0243Deneb.860.fits

@@ -1,0 +1,160 @@
+2017-03-23T03:21:16 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-23T03:21:17 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-23T03:21:21 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-23T03:21:21 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-23T03:21:21 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-23T03:21:21 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-23T03:21:27 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= 13.0380885187
+2017-03-23T03:21:27 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-23T03:24:59 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:01 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:01 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0001BIAS.0.fits
+2017-03-23T03:25:01 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:04 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:04 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0002BIAS.0.fits
+2017-03-23T03:25:04 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:06 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:06 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0003BIAS.0.fits
+2017-03-23T03:25:06 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:07 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:07 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0004BIAS.0.fits
+2017-03-23T03:25:07 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:10 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:10 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0005BIAS.0.fits
+2017-03-23T03:25:10 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:12 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:12 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0006BIAS.0.fits
+2017-03-23T03:25:12 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:13 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:13 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0007BIAS.0.fits
+2017-03-23T03:25:13 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:16 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:16 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0008BIAS.0.fits
+2017-03-23T03:25:16 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:17 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:17 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0009BIAS.0.fits
+2017-03-23T03:25:17 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:19 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:19 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0010BIAS.0.fits
+2017-03-23T03:25:19 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:22 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:22 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0011BIAS.0.fits
+2017-03-23T03:25:22 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:24 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:24 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0012BIAS.0.fits
+2017-03-23T03:25:24 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:26 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:26 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0013BIAS.0.fits
+2017-03-23T03:25:26 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:28 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:28 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0014BIAS.0.fits
+2017-03-23T03:25:28 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:30 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:30 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0015BIAS.0.fits
+2017-03-23T03:25:30 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:32 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:32 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0016BIAS.0.fits
+2017-03-23T03:25:32 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:33 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:33 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0017BIAS.0.fits
+2017-03-23T03:25:33 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:36 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:36 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0018BIAS.0.fits
+2017-03-23T03:25:36 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:37 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:37 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0019BIAS.0.fits
+2017-03-23T03:25:37 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:39 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:39 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0020BIAS.0.fits
+2017-03-23T03:25:39 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:41 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:41 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0021BIAS.0.fits
+2017-03-23T03:25:41 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:43 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:43 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0022BIAS.0.fits
+2017-03-23T03:25:43 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:45 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:45 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0023BIAS.0.fits
+2017-03-23T03:25:45 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:48 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:48 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0024BIAS.0.fits
+2017-03-23T03:25:48 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:50 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:50 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0025BIAS.0.fits
+2017-03-23T03:25:50 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:52 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:52 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0026BIAS.0.fits
+2017-03-23T03:25:52 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:54 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:54 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0027BIAS.0.fits
+2017-03-23T03:25:54 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:56 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:56 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0028BIAS.0.fits
+2017-03-23T03:25:56 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:25:58 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:25:58 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0029BIAS.0.fits
+2017-03-23T03:25:58 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T03:26:00 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T03:26:00 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0030BIAS.0.fits
+2017-03-23T04:09:18 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-23T04:09:18 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-23T04:09:18 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-23T04:09:18 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-23T04:09:18 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-23T04:09:18 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-23T04:09:24 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -4.81780368096
+2017-03-23T04:09:24 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-23T04:09:24 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T04:09:26 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T04:09:26 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0031BIAS.0.fits
+2017-03-23T04:14:04 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-23T04:14:05 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-23T04:14:09 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-23T04:14:09 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-23T04:14:09 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-23T04:14:09 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-23T04:14:14 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -5.64630753359
+2017-03-23T04:14:14 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-23T04:16:50 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T04:16:52 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T04:16:52 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0001BIAS.0.fits
+2017-03-23T04:18:44 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:18:51 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:18:51 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0002Elnath.823.fits
+2017-03-23T04:18:51 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:19:01 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:19:01 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0003Elnath.860.fits
+2017-03-23T04:19:01 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:19:07 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:19:07 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0004Elnath.780.fits
+2017-03-23T04:30:14 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-23T04:30:14 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-23T04:30:14 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-23T04:30:14 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-23T04:30:14 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-23T04:30:14 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-23T04:30:20 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -4.81780368096
+2017-03-23T04:30:20 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-23T04:30:20 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T04:30:21 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T04:30:21 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0005BIAS.0.fits
+2017-03-23T04:30:53 [cCamera.py:422 - connect()] INFO: Connecting to Maxim
+2017-03-23T04:30:53 [cCamera.py:426 - connect()] INFO: Connecting to camera
+2017-03-23T04:30:53 [cCamera.py:434 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2017-03-23T04:30:53 [cCamera.py:439 - connect()] INFO: Preventing maxim from closing upon exit
+2017-03-23T04:30:53 [cCamera.py:330 - setBinning()] INFO: Camera binning set to 2x2
+2017-03-23T04:30:53 [cCamera.py:314 - setFrame()] INFO: Camera set to full-frame mode
+2017-03-23T04:30:58 [cCamera.py:364 - coolCCD()] INFO: Cooling camera to -5 C , Amb Temp= -4.81780368096
+2017-03-23T04:30:58 [cCamera.py:365 - coolCCD()] INFO: Waiting for Cooler Power to Stabalize Below 35%
+2017-03-23T04:30:58 [cCamera.py:304 - Expose()] INFO: Exposing Dark frame...
+2017-03-23T04:31:00 [cCamera.py:308 - Expose()] INFO: Dark frame exposure and download complete!
+2017-03-23T04:31:01 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0006BIAS.0.fits
+2017-03-23T04:31:33 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:31:41 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:31:41 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0007Elnath.823.fits
+2017-03-23T04:31:41 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:31:51 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:31:51 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0008Elnath.860.fits
+2017-03-23T04:31:51 [cCamera.py:296 - Expose()] INFO: Exposing light frame...
+2017-03-23T04:31:57 [cCamera.py:300 - Expose()] INFO: Light frame exposure and download complete!
+2017-03-23T04:31:57 [cCamera.py:338 - saveImage()] INFO: saved file to C:/camal/data/n20170323//0009Elnath.780.fits

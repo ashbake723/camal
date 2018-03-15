@@ -1,0 +1,464 @@
+2017-10-19T01:20:13 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2017-10-19T01:20:13 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2017-10-19T01:20:13 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0001BIAS.0.fits
+2017-10-19T01:20:15 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2017-10-19T01:20:15 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0002BIAS.0.fits
+2017-10-19T01:20:16 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2017-10-19T01:20:16 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0003BIAS.0.fits
+2017-10-19T01:20:18 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2017-10-19T01:20:18 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0004BIAS.0.fits
+2017-10-19T01:20:19 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2017-10-19T01:20:19 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0005BIAS.0.fits
+2017-10-19T01:20:20 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2017-10-19T01:20:20 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0006BIAS.0.fits
+2017-10-19T01:20:21 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2017-10-19T01:20:21 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0007BIAS.0.fits
+2017-10-19T01:20:22 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2017-10-19T01:20:22 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:24 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0008BIAS.0.fits
+2017-10-19T01:20:24 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2017-10-19T01:20:24 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0009BIAS.0.fits
+2017-10-19T01:20:25 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2017-10-19T01:20:25 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0010BIAS.0.fits
+2017-10-19T01:20:26 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2017-10-19T01:20:26 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0011BIAS.0.fits
+2017-10-19T01:20:27 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2017-10-19T01:20:27 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0012BIAS.0.fits
+2017-10-19T01:20:29 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2017-10-19T01:20:29 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0013BIAS.0.fits
+2017-10-19T01:20:30 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2017-10-19T01:20:30 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0014BIAS.0.fits
+2017-10-19T01:20:31 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2017-10-19T01:20:31 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0015BIAS.0.fits
+2017-10-19T01:20:32 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2017-10-19T01:20:32 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0016BIAS.0.fits
+2017-10-19T01:20:33 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2017-10-19T01:20:33 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:34 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0017BIAS.0.fits
+2017-10-19T01:20:35 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2017-10-19T01:20:35 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0018BIAS.0.fits
+2017-10-19T01:20:36 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2017-10-19T01:20:36 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0019BIAS.0.fits
+2017-10-19T01:20:37 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2017-10-19T01:20:37 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0020BIAS.0.fits
+2017-10-19T01:20:38 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2017-10-19T01:20:38 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:39 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0021BIAS.0.fits
+2017-10-19T01:20:39 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2017-10-19T01:20:39 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0022BIAS.0.fits
+2017-10-19T01:20:41 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2017-10-19T01:20:41 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0023BIAS.0.fits
+2017-10-19T01:20:42 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2017-10-19T01:20:42 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0024BIAS.0.fits
+2017-10-19T01:20:43 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2017-10-19T01:20:43 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0025BIAS.0.fits
+2017-10-19T01:20:44 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2017-10-19T01:20:44 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0026BIAS.0.fits
+2017-10-19T01:20:45 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2017-10-19T01:20:45 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0027BIAS.0.fits
+2017-10-19T01:20:47 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2017-10-19T01:20:47 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0028BIAS.0.fits
+2017-10-19T01:20:48 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2017-10-19T01:20:48 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0029BIAS.0.fits
+2017-10-19T01:20:49 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2017-10-19T01:20:49 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T01:20:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0030BIAS.0.fits
+2017-10-19T01:20:50 [main.py:505 - <module>()] INFO: Waiting for nautical twilight to end (1182.938162seconds)
+2017-10-19T01:40:34 [main.py:518 - <module>()] INFO: Making Schedule and initializing telescope
+2017-10-19T01:40:34 [main.py:525 - <module>()] INFO: Initializing Telescope
+2017-10-19T01:41:09 [main.py:567 - <module>()] INFO: Deneb about to be observed
+2017-10-19T01:41:09 [main.py:355 - doScience()] INFO: Target Deneb is before its starttime (2017-10-19 02:30:00); waiting 2930.897 seconds
+2017-10-19T02:47:40 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2017-10-19T02:47:40 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2017-10-19T02:47:40 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2017-10-19T02:47:40 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2017-10-19T02:47:40 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:40 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0031BIAS.0.fits
+2017-10-19T02:47:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0031BIAS.0.fits
+2017-10-19T02:47:42 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2017-10-19T02:47:42 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2017-10-19T02:47:42 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:42 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0032BIAS.0.fits
+2017-10-19T02:47:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0032BIAS.0.fits
+2017-10-19T02:47:43 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2017-10-19T02:47:43 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2017-10-19T02:47:43 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:43 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0033BIAS.0.fits
+2017-10-19T02:47:44 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0033BIAS.0.fits
+2017-10-19T02:47:44 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2017-10-19T02:47:44 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2017-10-19T02:47:44 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:44 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0034BIAS.0.fits
+2017-10-19T02:47:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0034BIAS.0.fits
+2017-10-19T02:47:45 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2017-10-19T02:47:45 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2017-10-19T02:47:45 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:45 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0035BIAS.0.fits
+2017-10-19T02:47:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0035BIAS.0.fits
+2017-10-19T02:47:47 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2017-10-19T02:47:47 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2017-10-19T02:47:47 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:47 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0036BIAS.0.fits
+2017-10-19T02:47:48 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0036BIAS.0.fits
+2017-10-19T02:47:48 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2017-10-19T02:47:48 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2017-10-19T02:47:48 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:48 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0037BIAS.0.fits
+2017-10-19T02:47:49 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0037BIAS.0.fits
+2017-10-19T02:47:49 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2017-10-19T02:47:49 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2017-10-19T02:47:49 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:49 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0038BIAS.0.fits
+2017-10-19T02:47:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0038BIAS.0.fits
+2017-10-19T02:47:50 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2017-10-19T02:47:50 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2017-10-19T02:47:50 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:50 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0039BIAS.0.fits
+2017-10-19T02:47:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0039BIAS.0.fits
+2017-10-19T02:47:52 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2017-10-19T02:47:52 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2017-10-19T02:47:52 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:52 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0040BIAS.0.fits
+2017-10-19T02:47:53 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0040BIAS.0.fits
+2017-10-19T02:47:53 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2017-10-19T02:47:53 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2017-10-19T02:47:53 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:53 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0041BIAS.0.fits
+2017-10-19T02:47:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0041BIAS.0.fits
+2017-10-19T02:47:54 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2017-10-19T02:47:54 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2017-10-19T02:47:54 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:54 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0042BIAS.0.fits
+2017-10-19T02:47:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0042BIAS.0.fits
+2017-10-19T02:47:56 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2017-10-19T02:47:56 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2017-10-19T02:47:56 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:56 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0043BIAS.0.fits
+2017-10-19T02:47:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0043BIAS.0.fits
+2017-10-19T02:47:57 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2017-10-19T02:47:57 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2017-10-19T02:47:57 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:57 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0044BIAS.0.fits
+2017-10-19T02:47:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0044BIAS.0.fits
+2017-10-19T02:47:58 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2017-10-19T02:47:58 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2017-10-19T02:47:58 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:58 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0045BIAS.0.fits
+2017-10-19T02:47:59 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0045BIAS.0.fits
+2017-10-19T02:47:59 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2017-10-19T02:47:59 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2017-10-19T02:47:59 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:47:59 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0046BIAS.0.fits
+2017-10-19T02:48:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0046BIAS.0.fits
+2017-10-19T02:48:01 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2017-10-19T02:48:01 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2017-10-19T02:48:01 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:01 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0047BIAS.0.fits
+2017-10-19T02:48:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0047BIAS.0.fits
+2017-10-19T02:48:02 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2017-10-19T02:48:02 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2017-10-19T02:48:02 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:02 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0048BIAS.0.fits
+2017-10-19T02:48:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0048BIAS.0.fits
+2017-10-19T02:48:03 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2017-10-19T02:48:03 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2017-10-19T02:48:03 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:03 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0049BIAS.0.fits
+2017-10-19T02:48:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0049BIAS.0.fits
+2017-10-19T02:48:04 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2017-10-19T02:48:04 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2017-10-19T02:48:04 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:04 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0050BIAS.0.fits
+2017-10-19T02:48:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0050BIAS.0.fits
+2017-10-19T02:48:06 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2017-10-19T02:48:06 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2017-10-19T02:48:06 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:06 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0051BIAS.0.fits
+2017-10-19T02:48:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0051BIAS.0.fits
+2017-10-19T02:48:07 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2017-10-19T02:48:07 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2017-10-19T02:48:07 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:07 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0052BIAS.0.fits
+2017-10-19T02:48:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0052BIAS.0.fits
+2017-10-19T02:48:08 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2017-10-19T02:48:08 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2017-10-19T02:48:08 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:08 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0053BIAS.0.fits
+2017-10-19T02:48:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0053BIAS.0.fits
+2017-10-19T02:48:09 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2017-10-19T02:48:09 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2017-10-19T02:48:09 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:09 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0054BIAS.0.fits
+2017-10-19T02:48:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0054BIAS.0.fits
+2017-10-19T02:48:11 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2017-10-19T02:48:11 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2017-10-19T02:48:11 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:11 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0055BIAS.0.fits
+2017-10-19T02:48:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0055BIAS.0.fits
+2017-10-19T02:48:12 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2017-10-19T02:48:12 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2017-10-19T02:48:12 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:12 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0056BIAS.0.fits
+2017-10-19T02:48:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0056BIAS.0.fits
+2017-10-19T02:48:13 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2017-10-19T02:48:13 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2017-10-19T02:48:13 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:13 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0057BIAS.0.fits
+2017-10-19T02:48:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0057BIAS.0.fits
+2017-10-19T02:48:14 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2017-10-19T02:48:14 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2017-10-19T02:48:14 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:14 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0058BIAS.0.fits
+2017-10-19T02:48:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0058BIAS.0.fits
+2017-10-19T02:48:16 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2017-10-19T02:48:16 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2017-10-19T02:48:16 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:16 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0059BIAS.0.fits
+2017-10-19T02:48:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0059BIAS.0.fits
+2017-10-19T02:48:17 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2017-10-19T02:48:17 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2017-10-19T02:48:17 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:17 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2017-10-19T02:48:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0060BIAS.0.fits
+2017-10-19T02:48:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0060BIAS.0.fits
+2017-10-19T02:48:19 [main.py:518 - <module>()] INFO: Making Schedule and initializing telescope
+2017-10-19T02:48:19 [main.py:518 - <module>()] INFO: Making Schedule and initializing telescope
+2017-10-19T02:48:19 [main.py:525 - <module>()] INFO: Initializing Telescope
+2017-10-19T02:48:19 [main.py:525 - <module>()] INFO: Initializing Telescope
+2017-10-19T02:48:52 [main.py:567 - <module>()] INFO: Deneb about to be observed
+2017-10-19T02:48:52 [main.py:567 - <module>()] INFO: Deneb about to be observed
+2017-10-19T02:49:01 [main.py:380 - doScience()] INFO: Looping through filters now for target
+2017-10-19T02:49:01 [main.py:380 - doScience()] INFO: Looping through filters now for target
+2017-10-19T02:49:01 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:01 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0061Deneb.780.fits
+2017-10-19T02:49:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0061Deneb.780.fits
+2017-10-19T02:49:04 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:04 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0062Deneb.823.fits
+2017-10-19T02:49:09 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0062Deneb.823.fits
+2017-10-19T02:49:09 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:09 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0063Deneb.860.fits
+2017-10-19T02:49:15 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0063Deneb.860.fits
+2017-10-19T02:49:16 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:16 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0064Deneb.780.fits
+2017-10-19T02:49:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0064Deneb.780.fits
+2017-10-19T02:49:20 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:20 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0065Deneb.823.fits
+2017-10-19T02:49:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0065Deneb.823.fits
+2017-10-19T02:49:25 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:25 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0066Deneb.860.fits
+2017-10-19T02:49:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0066Deneb.860.fits
+2017-10-19T02:49:31 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:31 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0067Deneb.780.fits
+2017-10-19T02:49:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0067Deneb.780.fits
+2017-10-19T02:49:35 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:35 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0068Deneb.823.fits
+2017-10-19T02:49:40 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0068Deneb.823.fits
+2017-10-19T02:49:40 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:40 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0069Deneb.860.fits
+2017-10-19T02:49:45 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0069Deneb.860.fits
+2017-10-19T02:49:46 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:46 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:49:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0070Deneb.780.fits
+2017-10-19T02:49:50 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0070Deneb.780.fits
+2017-10-19T02:49:50 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:50 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:49:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0071Deneb.823.fits
+2017-10-19T02:49:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0071Deneb.823.fits
+2017-10-19T02:49:55 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:49:55 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0072Deneb.860.fits
+2017-10-19T02:50:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0072Deneb.860.fits
+2017-10-19T02:50:02 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:02 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0073Deneb.780.fits
+2017-10-19T02:50:05 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0073Deneb.780.fits
+2017-10-19T02:50:05 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:05 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0074Deneb.823.fits
+2017-10-19T02:50:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0074Deneb.823.fits
+2017-10-19T02:50:10 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:10 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0075Deneb.860.fits
+2017-10-19T02:50:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0075Deneb.860.fits
+2017-10-19T02:50:17 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:17 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0076Deneb.780.fits
+2017-10-19T02:50:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0076Deneb.780.fits
+2017-10-19T02:50:20 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:20 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0077Deneb.823.fits
+2017-10-19T02:50:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0077Deneb.823.fits
+2017-10-19T02:50:26 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:26 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0078Deneb.860.fits
+2017-10-19T02:50:31 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0078Deneb.860.fits
+2017-10-19T02:50:32 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:32 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0079Deneb.780.fits
+2017-10-19T02:50:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0079Deneb.780.fits
+2017-10-19T02:50:36 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:36 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0080Deneb.823.fits
+2017-10-19T02:50:41 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0080Deneb.823.fits
+2017-10-19T02:50:41 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:41 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0081Deneb.860.fits
+2017-10-19T02:50:46 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0081Deneb.860.fits
+2017-10-19T02:50:47 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:47 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:50:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0082Deneb.780.fits
+2017-10-19T02:50:51 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0082Deneb.780.fits
+2017-10-19T02:50:51 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:51 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:50:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0083Deneb.823.fits
+2017-10-19T02:50:56 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0083Deneb.823.fits
+2017-10-19T02:50:56 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:50:56 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0084Deneb.860.fits
+2017-10-19T02:51:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0084Deneb.860.fits
+2017-10-19T02:51:03 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:03 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0085Deneb.780.fits
+2017-10-19T02:51:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0085Deneb.780.fits
+2017-10-19T02:51:06 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:06 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0086Deneb.823.fits
+2017-10-19T02:51:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0086Deneb.823.fits
+2017-10-19T02:51:11 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:11 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0087Deneb.860.fits
+2017-10-19T02:51:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0087Deneb.860.fits
+2017-10-19T02:51:18 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:18 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0088Deneb.780.fits
+2017-10-19T02:51:21 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0088Deneb.780.fits
+2017-10-19T02:51:21 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:21 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0089Deneb.823.fits
+2017-10-19T02:51:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0089Deneb.823.fits
+2017-10-19T02:51:27 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:27 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0090Deneb.860.fits
+2017-10-19T02:51:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0090Deneb.860.fits
+2017-10-19T02:51:33 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:33 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0091Deneb.780.fits
+2017-10-19T02:51:37 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0091Deneb.780.fits
+2017-10-19T02:51:37 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:37 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0092Deneb.823.fits
+2017-10-19T02:51:42 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0092Deneb.823.fits
+2017-10-19T02:51:42 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:42 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0093Deneb.860.fits
+2017-10-19T02:51:47 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0093Deneb.860.fits
+2017-10-19T02:51:48 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:48 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:51:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0094Deneb.780.fits
+2017-10-19T02:51:52 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0094Deneb.780.fits
+2017-10-19T02:51:52 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:52 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:51:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0095Deneb.823.fits
+2017-10-19T02:51:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0095Deneb.823.fits
+2017-10-19T02:51:57 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:51:57 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0096Deneb.860.fits
+2017-10-19T02:52:02 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0096Deneb.860.fits
+2017-10-19T02:52:03 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:03 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0097Deneb.780.fits
+2017-10-19T02:52:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0097Deneb.780.fits
+2017-10-19T02:52:07 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:07 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0098Deneb.823.fits
+2017-10-19T02:52:12 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0098Deneb.823.fits
+2017-10-19T02:52:12 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:12 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0099Deneb.860.fits
+2017-10-19T02:52:18 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0099Deneb.860.fits
+2017-10-19T02:52:19 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:19 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0100Deneb.780.fits
+2017-10-19T02:52:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0100Deneb.780.fits
+2017-10-19T02:52:22 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:22 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0101Deneb.823.fits
+2017-10-19T02:52:27 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0101Deneb.823.fits
+2017-10-19T02:52:27 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:27 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0102Deneb.860.fits
+2017-10-19T02:52:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0102Deneb.860.fits
+2017-10-19T02:52:34 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:34 [main.py:227 - takeImage()] INFO: Taking 0.94 second image
+2017-10-19T02:52:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0103Deneb.780.fits
+2017-10-19T02:52:38 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0103Deneb.780.fits
+2017-10-19T02:52:38 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:38 [main.py:227 - takeImage()] INFO: Taking 1.18 second image
+2017-10-19T02:52:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0104Deneb.823.fits
+2017-10-19T02:52:43 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20171019//0104Deneb.823.fits
+2017-10-19T02:52:43 [main.py:227 - takeImage()] INFO: Taking 2.84 second image
+2017-10-19T02:52:43 [main.py:227 - takeImage()] INFO: Taking 2.84 second image

@@ -1,0 +1,33 @@
+2016-11-28T01:16:19 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:16:55 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:16:55 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:17:38 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T01:22:07 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:22:07 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:22:10 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:22:10 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:22:10 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:22:10 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:22:46 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T01:22:46 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T01:27:34 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:27:34 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:27:34 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T01:27:37 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:27:37 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:27:37 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T01:27:37 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:27:37 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:27:37 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T01:28:13 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T01:28:13 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T01:28:13 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 18.61565, DEC: 38.7836944444
+2016-11-28T03:09:41 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T03:09:41 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T03:09:41 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-11-28T03:09:44 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T03:09:44 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T03:09:44 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-11-28T03:09:44 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T03:09:44 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-11-28T03:09:44 [cTelescope.py:70 - initialize()] INFO: Finding Home position

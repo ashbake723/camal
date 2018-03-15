@@ -1,0 +1,22 @@
+2017-03-27T02:12:39 [main.py:168 - doDark()] INFO: Taking BIAS 1 of 1 (exptime = 0)
+2017-03-27T02:12:39 [main.py:168 - doDark()] INFO: Taking BIAS 1 of 1 (exptime = 0)
+2017-03-27T02:12:39 [main.py:240 - takeImage()] INFO: Taking 0 second image
+2017-03-27T02:12:39 [main.py:240 - takeImage()] INFO: Taking 0 second image
+2017-03-27T02:12:41 [main.py:259 - takeImage()] INFO: Saving image: C:/camal/data/n20170327//0001BIAS.0.fits
+2017-03-27T02:12:41 [main.py:259 - takeImage()] INFO: Saving image: C:/camal/data/n20170327//0001BIAS.0.fits
+2017-03-27T02:12:41 [main.py:577 - <module>()] INFO: Waiting for nautical twilight to end (1174.184509seconds)
+2017-03-27T02:12:41 [main.py:577 - <module>()] INFO: Waiting for nautical twilight to end (1174.184509seconds)
+2017-03-27T03:19:01 [main.py:168 - doDark()] INFO: Taking BIAS 1 of 1 (exptime = 0)
+2017-03-27T03:19:01 [main.py:240 - takeImage()] INFO: Taking 0 second image
+2017-03-27T03:19:03 [main.py:259 - takeImage()] INFO: Saving image: C:/camal/data/n20170327//0002BIAS.0.fits
+2017-03-27T03:19:03 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:20:03 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:21:04 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:22:04 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:23:04 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:24:05 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:25:05 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:26:05 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T03:27:06 [main.py:582 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2017-03-27T04:01:39 [main.py:168 - doDark()] INFO: Taking BIAS 1 of 1 (exptime = 0)
+2017-03-27T04:02:36 [main.py:240 - takeImage()] INFO: Taking 0 second image

@@ -1,0 +1,3 @@
+2017-07-06T04:19:05 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2017-07-06T04:19:08 [cTelescope.py:69 - initialize()] INFO:  Connected to telescope now
+2017-07-06T04:19:42 [cTelescope.py:134 - home()] INFO: Telescope Finding Home Position

@@ -1,0 +1,4 @@
+2018-02-03T00:45:33 [main.py:488 - <module>()] INFO: Waiting for sunset (726.418295seconds)
+2018-02-03T01:00:02 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2018-02-03T01:00:02 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2018-02-03T01:00:02 [main.py:227 - takeImage()] INFO: Taking 0 second image

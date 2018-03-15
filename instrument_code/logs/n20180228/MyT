@@ -1,0 +1,5 @@
+2018-02-28T00:45:05 [cTelescope.py:47 - __init__()] INFO: Connecting to The Sky...
+2018-02-28T12:49:53 [cTelescope.py:147 - shutDown()] INFO: Parking telescope
+2018-02-28T12:50:27 [cTelescope.py:140 - home()] INFO: Telescope Finding Home Position
+2018-02-28T12:50:48 [cTelescope.py:159 - shutDown()] INFO: Telescope Parked
+2018-02-28T12:50:48 [cTelescope.py:166 - shutDown()] INFO: Disconnected from Telescope but not in the SkyX

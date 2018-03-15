@@ -1,0 +1,7 @@
+2016-12-07T01:16:41 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-12-07T01:17:19 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-12-07T01:17:19 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-12-07T01:50:24 [cTelescope.py:48 - initialize()] INFO: Connecting to The Sky...
+2016-12-07T01:50:27 [cTelescope.py:58 - initialize()] INFO:  Connected to telescope now
+2016-12-07T01:50:27 [cTelescope.py:70 - initialize()] INFO: Finding Home position
+2016-12-07T01:51:10 [cTelescope.py:84 - goto()] INFO: Slewing to RA: 5.43819722222, DEC: 28.6074444444

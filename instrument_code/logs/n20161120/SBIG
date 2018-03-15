@@ -1,0 +1,132 @@
+2016-11-19T19:01:42 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:01:42 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:01:45 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:01:45 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:15:29 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:15:29 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:15:29 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:15:29 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:15:30 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:15:30 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:15:30 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:15:30 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:16:12 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:16:12 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:16:12 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:16:12 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:16:12 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:16:12 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:16:13 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:16:13 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:16:13 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:16:13 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:16:13 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:16:13 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:18:01 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:18:01 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:18:01 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:18:01 [cCamera.py:183 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:18:01 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:18:01 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:18:01 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:18:01 [cCamera.py:187 - connect()] INFO: Connecting to camera
+2016-11-19T19:18:02 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:18:02 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:18:02 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:18:02 [cCamera.py:195 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:18:02 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:18:02 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:18:02 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:18:02 [cCamera.py:200 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:20:52 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:20:52 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-19T19:20:52 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:20:52 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:24:53 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:24:53 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-19T19:24:56 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:24:56 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-19T19:27:00 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-19T19:27:00 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-19T19:27:01 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-19T19:27:01 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T01:46:06 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T01:46:06 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T01:46:09 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T01:46:09 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T01:48:18 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T01:48:18 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T01:48:18 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T01:48:18 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T01:48:19 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T01:48:19 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T01:48:19 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T01:48:19 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:05:59 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:06:05 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:06:15 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:06:15 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:10:24 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:10:24 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:10:24 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:10:24 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:10:25 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:10:25 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:10:25 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:10:25 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:11:08 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:11:08 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:11:08 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:11:08 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:11:08 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:11:08 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:11:08 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:11:08 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:11:08 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:11:08 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:11:08 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:11:08 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:23:13 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:23:13 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:23:13 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:23:13 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:23:13 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:23:13 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:23:13 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:23:13 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:23:13 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:23:13 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:23:13 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:23:13 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:23:13 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:23:13 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:23:13 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:23:13 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:26:11 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:26:11 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:26:11 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:26:11 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:29:51 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:29:51 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:29:51 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:29:51 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:29:51 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:29:51 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:29:51 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:29:51 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:31:38 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:31:38 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:31:38 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T02:31:38 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:31:38 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:31:38 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T02:31:38 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:31:38 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:31:38 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T02:31:38 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:31:38 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T02:31:38 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit
+2016-11-20T16:25:15 [cCamera.py:186 - connect()] INFO: Connecting to Maxim
+2016-11-20T16:25:15 [cCamera.py:190 - connect()] INFO: Connecting to camera
+2016-11-20T16:25:17 [cCamera.py:198 - connect()] INFO: Preventing the camera from disconnecting when we exit
+2016-11-20T16:25:17 [cCamera.py:203 - connect()] INFO: Preventing maxim from closing upon exit

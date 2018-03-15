@@ -1,0 +1,720 @@
+2016-12-02T02:06:42 [main.py:167 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2016-12-02T02:06:42 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:44 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0001BIAS.0.fits
+2016-12-02T02:06:44 [main.py:167 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2016-12-02T02:06:44 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0002BIAS.0.fits
+2016-12-02T02:06:47 [main.py:167 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2016-12-02T02:06:47 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:49 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0003BIAS.0.fits
+2016-12-02T02:06:49 [main.py:167 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2016-12-02T02:06:49 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:51 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0004BIAS.0.fits
+2016-12-02T02:06:51 [main.py:167 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2016-12-02T02:06:51 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:53 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0005BIAS.0.fits
+2016-12-02T02:06:53 [main.py:167 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2016-12-02T02:06:53 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:55 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0006BIAS.0.fits
+2016-12-02T02:06:55 [main.py:167 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2016-12-02T02:06:55 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:06:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0007BIAS.0.fits
+2016-12-02T02:06:58 [main.py:167 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2016-12-02T02:06:58 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:00 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0008BIAS.0.fits
+2016-12-02T02:07:00 [main.py:167 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2016-12-02T02:07:00 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:02 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0009BIAS.0.fits
+2016-12-02T02:07:02 [main.py:167 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2016-12-02T02:07:02 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:04 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0010BIAS.0.fits
+2016-12-02T02:07:04 [main.py:167 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2016-12-02T02:07:04 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:06 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0011BIAS.0.fits
+2016-12-02T02:07:06 [main.py:167 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2016-12-02T02:07:06 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:09 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0012BIAS.0.fits
+2016-12-02T02:07:09 [main.py:167 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2016-12-02T02:07:09 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:11 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0013BIAS.0.fits
+2016-12-02T02:07:11 [main.py:167 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2016-12-02T02:07:11 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:13 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0014BIAS.0.fits
+2016-12-02T02:07:13 [main.py:167 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2016-12-02T02:07:13 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:16 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0015BIAS.0.fits
+2016-12-02T02:07:16 [main.py:167 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2016-12-02T02:07:16 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:18 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0016BIAS.0.fits
+2016-12-02T02:07:18 [main.py:167 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2016-12-02T02:07:18 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:19 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0017BIAS.0.fits
+2016-12-02T02:07:20 [main.py:167 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2016-12-02T02:07:20 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:22 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0018BIAS.0.fits
+2016-12-02T02:07:22 [main.py:167 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2016-12-02T02:07:22 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0019BIAS.0.fits
+2016-12-02T02:07:24 [main.py:167 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2016-12-02T02:07:24 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:27 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0020BIAS.0.fits
+2016-12-02T02:07:27 [main.py:167 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2016-12-02T02:07:27 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:29 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0021BIAS.0.fits
+2016-12-02T02:07:29 [main.py:167 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2016-12-02T02:07:29 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:31 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0022BIAS.0.fits
+2016-12-02T02:07:31 [main.py:167 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2016-12-02T02:07:31 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:33 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0023BIAS.0.fits
+2016-12-02T02:07:33 [main.py:167 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2016-12-02T02:07:33 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:34 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0024BIAS.0.fits
+2016-12-02T02:07:35 [main.py:167 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2016-12-02T02:07:35 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0025BIAS.0.fits
+2016-12-02T02:07:37 [main.py:167 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2016-12-02T02:07:37 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:39 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0026BIAS.0.fits
+2016-12-02T02:07:39 [main.py:167 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2016-12-02T02:07:39 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:41 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0027BIAS.0.fits
+2016-12-02T02:07:42 [main.py:167 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2016-12-02T02:07:42 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:43 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0028BIAS.0.fits
+2016-12-02T02:07:43 [main.py:167 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2016-12-02T02:07:43 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:45 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0029BIAS.0.fits
+2016-12-02T02:07:46 [main.py:167 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2016-12-02T02:07:46 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T02:07:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0030BIAS.0.fits
+2016-12-02T02:07:49 [main.py:563 - <module>()] INFO: Initializing Telescope
+2016-12-02T02:08:38 [main.py:606 - <module>()] INFO: Vega about to be observed
+2016-12-02T02:17:02 [main.py:239 - takeImage()] INFO: Taking 0.5 second image
+2016-12-02T02:17:05 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0031Vega.823.fits
+2016-12-02T02:17:05 [main.py:239 - takeImage()] INFO: Taking 1.2 second image
+2016-12-02T02:17:12 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0032Vega.860.fits
+2016-12-02T02:17:12 [main.py:239 - takeImage()] INFO: Taking 0.4 second image
+2016-12-02T02:17:16 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0033Vega.780.fits
+2016-12-02T02:35:34 [main.py:239 - takeImage()] INFO: Taking 0.5 second image
+2016-12-02T02:35:40 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0034Vega.823.fits
+2016-12-02T02:35:40 [main.py:239 - takeImage()] INFO: Taking 1.2 second image
+2016-12-02T02:35:45 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0035Vega.860.fits
+2016-12-02T02:35:45 [main.py:239 - takeImage()] INFO: Taking 0.4 second image
+2016-12-02T02:35:50 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0036Vega.780.fits
+2016-12-02T02:38:16 [main.py:239 - takeImage()] INFO: Taking 0.5 second image
+2016-12-02T02:38:20 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0037Vega.823.fits
+2016-12-02T02:38:21 [main.py:239 - takeImage()] INFO: Taking 1.2 second image
+2016-12-02T02:38:25 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0038Vega.860.fits
+2016-12-02T02:38:25 [main.py:239 - takeImage()] INFO: Taking 0.4 second image
+2016-12-02T02:38:30 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0039Vega.780.fits
+2016-12-02T03:11:51 [main.py:239 - takeImage()] INFO: Taking 0.5 second image
+2016-12-02T03:11:56 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0040Vega.823.fits
+2016-12-02T03:11:56 [main.py:239 - takeImage()] INFO: Taking 1.2 second image
+2016-12-02T03:12:01 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0041Vega.860.fits
+2016-12-02T03:12:01 [main.py:239 - takeImage()] INFO: Taking 0.4 second image
+2016-12-02T03:12:06 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0042Vega.780.fits
+2016-12-02T03:26:20 [main.py:167 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2016-12-02T03:26:20 [main.py:167 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2016-12-02T03:26:20 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:20 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:22 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0043BIAS.0.fits
+2016-12-02T03:26:22 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0043BIAS.0.fits
+2016-12-02T03:26:22 [main.py:167 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2016-12-02T03:26:22 [main.py:167 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2016-12-02T03:26:22 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:22 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0044BIAS.0.fits
+2016-12-02T03:26:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0044BIAS.0.fits
+2016-12-02T03:26:25 [main.py:167 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2016-12-02T03:26:25 [main.py:167 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2016-12-02T03:26:25 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:25 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0045BIAS.0.fits
+2016-12-02T03:26:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0045BIAS.0.fits
+2016-12-02T03:26:26 [main.py:167 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2016-12-02T03:26:26 [main.py:167 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2016-12-02T03:26:26 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:26 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:28 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0046BIAS.0.fits
+2016-12-02T03:26:28 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0046BIAS.0.fits
+2016-12-02T03:26:28 [main.py:167 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2016-12-02T03:26:28 [main.py:167 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2016-12-02T03:26:28 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:28 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:30 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0047BIAS.0.fits
+2016-12-02T03:26:30 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0047BIAS.0.fits
+2016-12-02T03:26:31 [main.py:167 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2016-12-02T03:26:31 [main.py:167 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2016-12-02T03:26:31 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:31 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:32 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0048BIAS.0.fits
+2016-12-02T03:26:32 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0048BIAS.0.fits
+2016-12-02T03:26:32 [main.py:167 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2016-12-02T03:26:32 [main.py:167 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2016-12-02T03:26:32 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:32 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:35 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0049BIAS.0.fits
+2016-12-02T03:26:35 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0049BIAS.0.fits
+2016-12-02T03:26:35 [main.py:167 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2016-12-02T03:26:35 [main.py:167 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2016-12-02T03:26:35 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:35 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0050BIAS.0.fits
+2016-12-02T03:26:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0050BIAS.0.fits
+2016-12-02T03:26:37 [main.py:167 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2016-12-02T03:26:37 [main.py:167 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2016-12-02T03:26:37 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:37 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:39 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0051BIAS.0.fits
+2016-12-02T03:26:39 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0051BIAS.0.fits
+2016-12-02T03:26:40 [main.py:167 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2016-12-02T03:26:40 [main.py:167 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2016-12-02T03:26:40 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:40 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:42 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0052BIAS.0.fits
+2016-12-02T03:26:42 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0052BIAS.0.fits
+2016-12-02T03:26:42 [main.py:167 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2016-12-02T03:26:42 [main.py:167 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2016-12-02T03:26:42 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:42 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:44 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0053BIAS.0.fits
+2016-12-02T03:26:44 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0053BIAS.0.fits
+2016-12-02T03:26:44 [main.py:167 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2016-12-02T03:26:44 [main.py:167 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2016-12-02T03:26:44 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:44 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0054BIAS.0.fits
+2016-12-02T03:26:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0054BIAS.0.fits
+2016-12-02T03:26:47 [main.py:167 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2016-12-02T03:26:47 [main.py:167 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2016-12-02T03:26:47 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:47 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:49 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0055BIAS.0.fits
+2016-12-02T03:26:49 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0055BIAS.0.fits
+2016-12-02T03:26:49 [main.py:167 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2016-12-02T03:26:49 [main.py:167 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2016-12-02T03:26:49 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:49 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:51 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0056BIAS.0.fits
+2016-12-02T03:26:51 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0056BIAS.0.fits
+2016-12-02T03:26:51 [main.py:167 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2016-12-02T03:26:51 [main.py:167 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2016-12-02T03:26:51 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:51 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0057BIAS.0.fits
+2016-12-02T03:26:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0057BIAS.0.fits
+2016-12-02T03:26:54 [main.py:167 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2016-12-02T03:26:54 [main.py:167 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2016-12-02T03:26:54 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:54 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:56 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0058BIAS.0.fits
+2016-12-02T03:26:56 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0058BIAS.0.fits
+2016-12-02T03:26:56 [main.py:167 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2016-12-02T03:26:56 [main.py:167 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2016-12-02T03:26:56 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:56 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0059BIAS.0.fits
+2016-12-02T03:26:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0059BIAS.0.fits
+2016-12-02T03:26:59 [main.py:167 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2016-12-02T03:26:59 [main.py:167 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2016-12-02T03:26:59 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:26:59 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:01 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0060BIAS.0.fits
+2016-12-02T03:27:01 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0060BIAS.0.fits
+2016-12-02T03:27:01 [main.py:167 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2016-12-02T03:27:01 [main.py:167 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2016-12-02T03:27:01 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:01 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:03 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0061BIAS.0.fits
+2016-12-02T03:27:03 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0061BIAS.0.fits
+2016-12-02T03:27:03 [main.py:167 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2016-12-02T03:27:03 [main.py:167 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2016-12-02T03:27:03 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:03 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:05 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0062BIAS.0.fits
+2016-12-02T03:27:05 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0062BIAS.0.fits
+2016-12-02T03:27:06 [main.py:167 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2016-12-02T03:27:06 [main.py:167 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2016-12-02T03:27:06 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:06 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:08 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0063BIAS.0.fits
+2016-12-02T03:27:08 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0063BIAS.0.fits
+2016-12-02T03:27:08 [main.py:167 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2016-12-02T03:27:08 [main.py:167 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2016-12-02T03:27:08 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:08 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:09 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0064BIAS.0.fits
+2016-12-02T03:27:09 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0064BIAS.0.fits
+2016-12-02T03:27:10 [main.py:167 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2016-12-02T03:27:10 [main.py:167 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2016-12-02T03:27:10 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:10 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:12 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0065BIAS.0.fits
+2016-12-02T03:27:12 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0065BIAS.0.fits
+2016-12-02T03:27:12 [main.py:167 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2016-12-02T03:27:12 [main.py:167 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2016-12-02T03:27:12 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:12 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:14 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0066BIAS.0.fits
+2016-12-02T03:27:14 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0066BIAS.0.fits
+2016-12-02T03:27:15 [main.py:167 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2016-12-02T03:27:15 [main.py:167 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2016-12-02T03:27:15 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:15 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:17 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0067BIAS.0.fits
+2016-12-02T03:27:17 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0067BIAS.0.fits
+2016-12-02T03:27:17 [main.py:167 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2016-12-02T03:27:17 [main.py:167 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2016-12-02T03:27:17 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:17 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:19 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0068BIAS.0.fits
+2016-12-02T03:27:19 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0068BIAS.0.fits
+2016-12-02T03:27:19 [main.py:167 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2016-12-02T03:27:19 [main.py:167 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2016-12-02T03:27:19 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:19 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:22 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0069BIAS.0.fits
+2016-12-02T03:27:22 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0069BIAS.0.fits
+2016-12-02T03:27:22 [main.py:167 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2016-12-02T03:27:22 [main.py:167 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2016-12-02T03:27:22 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:22 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0070BIAS.0.fits
+2016-12-02T03:27:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0070BIAS.0.fits
+2016-12-02T03:27:24 [main.py:167 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2016-12-02T03:27:24 [main.py:167 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2016-12-02T03:27:24 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:24 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0071BIAS.0.fits
+2016-12-02T03:27:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0071BIAS.0.fits
+2016-12-02T03:27:26 [main.py:167 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2016-12-02T03:27:26 [main.py:167 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2016-12-02T03:27:26 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:26 [main.py:239 - takeImage()] INFO: Taking 0 second image
+2016-12-02T03:27:28 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0072BIAS.0.fits
+2016-12-02T03:27:28 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0072BIAS.0.fits
+2016-12-02T03:27:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:27:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:28:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:28:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:29:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:29:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:30:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:30:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:31:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:31:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:32:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:32:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:33:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:33:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:34:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:34:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:35:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:35:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:36:36 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:36:36 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:37:37 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:37:37 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:38:37 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:38:37 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:39:38 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:39:38 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:40:39 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:40:39 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:41:39 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:41:39 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:42:40 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:42:40 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:43:41 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:43:41 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:44:42 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:44:42 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:45:43 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:45:43 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:46:43 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:46:43 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:47:44 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:47:44 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:48:44 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:48:44 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:49:45 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:49:45 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:50:46 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:50:46 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:51:47 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:51:47 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:52:47 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:52:47 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:53:48 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:53:48 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:54:48 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:54:48 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:55:49 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:55:49 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:56:50 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:56:50 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:57:50 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:57:50 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:58:51 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:58:51 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:59:52 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T03:59:52 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:00:52 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:00:52 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:01:53 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:01:53 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:02:54 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:02:54 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:03:54 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:03:54 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:04:55 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:04:55 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:05:56 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:05:56 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:06:57 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:06:57 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:07:57 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:07:57 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:08:58 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:08:58 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:09:58 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:09:58 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:10:59 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:10:59 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:12:00 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:12:00 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:13:00 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:13:00 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:14:01 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:14:01 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:15:02 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:15:02 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:16:02 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:16:02 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:17:03 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:17:03 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:18:04 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:18:04 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:19:04 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:19:04 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:20:05 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:20:05 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:21:06 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:21:06 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:22:06 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:22:06 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:23:07 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:23:07 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:24:08 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:24:08 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:25:09 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:25:09 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:26:09 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:26:09 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:27:10 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:27:10 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:28:11 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:28:11 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:29:11 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:29:11 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:30:12 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:30:12 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:31:12 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:31:12 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:32:13 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:32:13 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:33:14 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:33:14 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:34:14 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:34:14 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:35:15 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:35:15 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:36:16 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:36:16 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:37:16 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:37:16 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:38:17 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:38:17 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:39:17 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:39:17 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:40:18 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:40:18 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:41:19 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:41:19 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:42:19 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:42:19 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:43:20 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:43:20 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:44:21 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:44:21 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:45:21 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:45:21 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:46:22 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:46:22 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:47:22 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:47:22 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:48:23 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:48:23 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:49:24 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:49:24 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:50:24 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:50:24 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:51:25 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:51:25 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:52:25 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:52:25 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:53:26 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:53:26 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:54:27 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:54:27 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:55:27 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:55:27 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:56:28 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:56:28 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:57:29 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:57:29 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:58:29 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:58:29 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:59:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T04:59:30 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:00:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:00:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:01:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:01:31 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:02:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:02:32 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:03:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:03:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:04:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:04:33 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:05:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:05:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:06:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:06:34 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:07:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:07:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:08:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:08:35 [main.py:577 - <module>()] INFO: Waiting For the Dome to Open at Beginning of Night
+2016-12-02T05:09:36 [main.py:582 - <module>()] INFO: Initializing Telescope
+2016-12-02T05:09:36 [main.py:582 - <module>()] INFO: Initializing Telescope
+2016-12-02T05:10:19 [main.py:625 - <module>()] INFO: Vega about to be observed
+2016-12-02T05:10:19 [main.py:625 - <module>()] INFO: Vega about to be observed
+2016-12-02T05:10:19 [main.py:360 - doScience()] INFO: Target Vega past its endtime (2016-12-02 03:00:00); skipping
+2016-12-02T05:10:19 [main.py:360 - doScience()] INFO: Target Vega past its endtime (2016-12-02 03:00:00); skipping
+2016-12-02T05:10:19 [main.py:627 - <module>()] INFO: Vega done; moving on to next target
+2016-12-02T05:10:19 [main.py:627 - <module>()] INFO: Vega done; moving on to next target
+2016-12-02T05:10:20 [main.py:625 - <module>()] INFO: Elnath about to be observed
+2016-12-02T05:10:20 [main.py:625 - <module>()] INFO: Elnath about to be observed
+2016-12-02T05:10:53 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:10:53 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:10:59 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0073Elnath.823.fits
+2016-12-02T05:10:59 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0073Elnath.823.fits
+2016-12-02T05:10:59 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:10:59 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:11:09 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0074Elnath.860.fits
+2016-12-02T05:11:09 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0074Elnath.860.fits
+2016-12-02T05:11:09 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:11:09 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:11:15 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0075Elnath.780.fits
+2016-12-02T05:11:15 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0075Elnath.780.fits
+2016-12-02T05:11:19 [main.py:390 - doScience()] INFO: Looping through filters now for target
+2016-12-02T05:11:19 [main.py:390 - doScience()] INFO: Looping through filters now for target
+2016-12-02T05:11:19 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:11:19 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:11:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0076Elnath.823.fits
+2016-12-02T05:11:26 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0076Elnath.823.fits
+2016-12-02T05:11:26 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:11:26 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:11:36 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0077Elnath.860.fits
+2016-12-02T05:11:36 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0077Elnath.860.fits
+2016-12-02T05:11:36 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:11:36 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:11:42 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0078Elnath.780.fits
+2016-12-02T05:11:42 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0078Elnath.780.fits
+2016-12-02T05:11:42 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:11:42 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:11:50 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0079Elnath.823.fits
+2016-12-02T05:11:50 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0079Elnath.823.fits
+2016-12-02T05:11:50 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:11:50 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:11:59 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0080Elnath.860.fits
+2016-12-02T05:11:59 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0080Elnath.860.fits
+2016-12-02T05:12:00 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:00 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:06 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0081Elnath.780.fits
+2016-12-02T05:12:06 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0081Elnath.780.fits
+2016-12-02T05:12:06 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:12:06 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:12:13 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0082Elnath.823.fits
+2016-12-02T05:12:13 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0082Elnath.823.fits
+2016-12-02T05:12:14 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:12:14 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:12:23 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0083Elnath.860.fits
+2016-12-02T05:12:23 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0083Elnath.860.fits
+2016-12-02T05:12:23 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:23 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:29 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0084Elnath.780.fits
+2016-12-02T05:12:29 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0084Elnath.780.fits
+2016-12-02T05:12:29 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:12:29 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:12:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0085Elnath.823.fits
+2016-12-02T05:12:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0085Elnath.823.fits
+2016-12-02T05:12:37 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:12:37 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:12:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0086Elnath.860.fits
+2016-12-02T05:12:47 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0086Elnath.860.fits
+2016-12-02T05:12:47 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:47 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:12:53 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0087Elnath.780.fits
+2016-12-02T05:12:53 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0087Elnath.780.fits
+2016-12-02T05:12:53 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:12:53 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:13:01 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0088Elnath.823.fits
+2016-12-02T05:13:01 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0088Elnath.823.fits
+2016-12-02T05:13:01 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:01 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:11 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0089Elnath.860.fits
+2016-12-02T05:13:11 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0089Elnath.860.fits
+2016-12-02T05:13:11 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:13:11 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:13:17 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0090Elnath.780.fits
+2016-12-02T05:13:17 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0090Elnath.780.fits
+2016-12-02T05:13:17 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:13:17 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:13:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0091Elnath.823.fits
+2016-12-02T05:13:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0091Elnath.823.fits
+2016-12-02T05:13:24 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:24 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:34 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0092Elnath.860.fits
+2016-12-02T05:13:34 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0092Elnath.860.fits
+2016-12-02T05:13:34 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:13:34 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:13:40 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0093Elnath.780.fits
+2016-12-02T05:13:40 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0093Elnath.780.fits
+2016-12-02T05:13:40 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:13:40 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:13:48 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0094Elnath.823.fits
+2016-12-02T05:13:48 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0094Elnath.823.fits
+2016-12-02T05:13:48 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:48 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:13:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0095Elnath.860.fits
+2016-12-02T05:13:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0095Elnath.860.fits
+2016-12-02T05:13:58 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:13:58 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:14:04 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0096Elnath.780.fits
+2016-12-02T05:14:04 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0096Elnath.780.fits
+2016-12-02T05:14:04 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:04 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:12 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0097Elnath.823.fits
+2016-12-02T05:14:12 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0097Elnath.823.fits
+2016-12-02T05:14:12 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:14:12 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:14:21 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0098Elnath.860.fits
+2016-12-02T05:14:21 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0098Elnath.860.fits
+2016-12-02T05:14:21 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:14:21 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:14:27 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0099Elnath.780.fits
+2016-12-02T05:14:27 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0099Elnath.780.fits
+2016-12-02T05:14:27 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:27 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:35 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0100Elnath.823.fits
+2016-12-02T05:14:35 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0100Elnath.823.fits
+2016-12-02T05:14:35 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:14:35 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:14:44 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0101Elnath.860.fits
+2016-12-02T05:14:44 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0101Elnath.860.fits
+2016-12-02T05:14:44 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:14:44 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:14:50 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0102Elnath.780.fits
+2016-12-02T05:14:50 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0102Elnath.780.fits
+2016-12-02T05:14:51 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:51 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:14:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0103Elnath.823.fits
+2016-12-02T05:14:58 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0103Elnath.823.fits
+2016-12-02T05:14:58 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:14:58 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:15:07 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0104Elnath.860.fits
+2016-12-02T05:15:07 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0104Elnath.860.fits
+2016-12-02T05:15:07 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:15:07 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:15:13 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0105Elnath.780.fits
+2016-12-02T05:15:13 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0105Elnath.780.fits
+2016-12-02T05:15:13 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:15:13 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:15:21 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0106Elnath.823.fits
+2016-12-02T05:15:21 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0106Elnath.823.fits
+2016-12-02T05:15:21 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:15:21 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:15:31 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0107Elnath.860.fits
+2016-12-02T05:15:31 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0107Elnath.860.fits
+2016-12-02T05:15:31 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:15:31 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:15:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0108Elnath.780.fits
+2016-12-02T05:15:37 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0108Elnath.780.fits
+2016-12-02T05:15:37 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:15:37 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:15:45 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0109Elnath.823.fits
+2016-12-02T05:15:45 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0109Elnath.823.fits
+2016-12-02T05:15:45 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:15:45 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:15:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0110Elnath.860.fits
+2016-12-02T05:15:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0110Elnath.860.fits
+2016-12-02T05:15:54 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:15:54 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:16:00 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0111Elnath.780.fits
+2016-12-02T05:16:00 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0111Elnath.780.fits
+2016-12-02T05:16:00 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:00 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:08 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0112Elnath.823.fits
+2016-12-02T05:16:08 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0112Elnath.823.fits
+2016-12-02T05:16:08 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:16:08 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:16:18 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0113Elnath.860.fits
+2016-12-02T05:16:18 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0113Elnath.860.fits
+2016-12-02T05:16:18 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:16:18 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:16:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0114Elnath.780.fits
+2016-12-02T05:16:24 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0114Elnath.780.fits
+2016-12-02T05:16:24 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:24 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:31 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0115Elnath.823.fits
+2016-12-02T05:16:31 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0115Elnath.823.fits
+2016-12-02T05:16:31 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:16:31 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:16:40 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0116Elnath.860.fits
+2016-12-02T05:16:40 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0116Elnath.860.fits
+2016-12-02T05:16:40 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:16:40 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:16:46 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0117Elnath.780.fits
+2016-12-02T05:16:46 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0117Elnath.780.fits
+2016-12-02T05:16:46 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:46 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:16:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0118Elnath.823.fits
+2016-12-02T05:16:54 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0118Elnath.823.fits
+2016-12-02T05:16:54 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:16:54 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:17:03 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0119Elnath.860.fits
+2016-12-02T05:17:03 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0119Elnath.860.fits
+2016-12-02T05:17:04 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:17:04 [main.py:239 - takeImage()] INFO: Taking 1.82 second image
+2016-12-02T05:17:10 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0120Elnath.780.fits
+2016-12-02T05:17:10 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0120Elnath.780.fits
+2016-12-02T05:17:10 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:17:10 [main.py:239 - takeImage()] INFO: Taking 2.29 second image
+2016-12-02T05:17:18 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0121Elnath.823.fits
+2016-12-02T05:17:18 [main.py:258 - takeImage()] INFO: Saving image: C:/camal/data/n20161202//0121Elnath.823.fits
+2016-12-02T05:17:18 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:17:18 [main.py:239 - takeImage()] INFO: Taking 5.52 second image
+2016-12-02T05:27:42 [main.py:32 - endNight()] INFO: Parking/Disconnection from Telescope
+2016-12-02T05:27:42 [main.py:32 - endNight()] INFO: Parking/Disconnection from Telescope
+2016-12-02T05:27:54 [main.py:37 - endNight()] INFO: Compressing data
+2016-12-02T05:27:54 [main.py:37 - endNight()] INFO: Compressing data
+2016-12-02T05:27:54 [main.py:42 - endNight()] INFO: Disconnecting imager
+2016-12-02T05:27:54 [main.py:42 - endNight()] INFO: Disconnecting imager
+2016-12-02T05:28:29 [main.py:48 - endNight()] INFO: Backing Up data
+2016-12-02T05:28:29 [main.py:48 - endNight()] INFO: Backing Up data
+2016-12-02T05:28:29 [main.py:54 - endNight()] INFO: Copying schedule file from ./schedule/n20161202 to C:/camal/data/n20161202/
+2016-12-02T05:28:29 [main.py:54 - endNight()] INFO: Copying schedule file from ./schedule/n20161202 to C:/camal/data/n20161202/
+2016-12-02T05:28:29 [main.py:61 - endNight()] INFO: Copying log file ./logs/n20161202\main.log to C:/camal/data/n20161202/
+2016-12-02T05:28:29 [main.py:61 - endNight()] INFO: Copying log file ./logs/n20161202\main.log to C:/camal/data/n20161202/

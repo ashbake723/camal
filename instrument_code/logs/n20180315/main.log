@@ -1,0 +1,95 @@
+2018-03-15T00:45:32 [main.py:488 - <module>()] INFO: Waiting for sunset (2648.867605seconds)
+2018-03-15T01:33:51 [main.py:499 - <module>()] INFO: Taking 30 Biases
+2018-03-15T01:33:51 [main.py:163 - doDark()] INFO: Taking BIAS 1 of 30 (exptime = 0)
+2018-03-15T01:33:51 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:33:54 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0001BIAS.0.fits
+2018-03-15T01:33:54 [main.py:163 - doDark()] INFO: Taking BIAS 2 of 30 (exptime = 0)
+2018-03-15T01:33:54 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:33:55 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0002BIAS.0.fits
+2018-03-15T01:33:55 [main.py:163 - doDark()] INFO: Taking BIAS 3 of 30 (exptime = 0)
+2018-03-15T01:33:55 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:33:57 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0003BIAS.0.fits
+2018-03-15T01:33:57 [main.py:163 - doDark()] INFO: Taking BIAS 4 of 30 (exptime = 0)
+2018-03-15T01:33:57 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:33:58 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0004BIAS.0.fits
+2018-03-15T01:33:58 [main.py:163 - doDark()] INFO: Taking BIAS 5 of 30 (exptime = 0)
+2018-03-15T01:33:58 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:00 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0005BIAS.0.fits
+2018-03-15T01:34:00 [main.py:163 - doDark()] INFO: Taking BIAS 6 of 30 (exptime = 0)
+2018-03-15T01:34:00 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:01 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0006BIAS.0.fits
+2018-03-15T01:34:01 [main.py:163 - doDark()] INFO: Taking BIAS 7 of 30 (exptime = 0)
+2018-03-15T01:34:01 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:03 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0007BIAS.0.fits
+2018-03-15T01:34:03 [main.py:163 - doDark()] INFO: Taking BIAS 8 of 30 (exptime = 0)
+2018-03-15T01:34:03 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:04 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0008BIAS.0.fits
+2018-03-15T01:34:04 [main.py:163 - doDark()] INFO: Taking BIAS 9 of 30 (exptime = 0)
+2018-03-15T01:34:04 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:06 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0009BIAS.0.fits
+2018-03-15T01:34:06 [main.py:163 - doDark()] INFO: Taking BIAS 10 of 30 (exptime = 0)
+2018-03-15T01:34:06 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:07 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0010BIAS.0.fits
+2018-03-15T01:34:07 [main.py:163 - doDark()] INFO: Taking BIAS 11 of 30 (exptime = 0)
+2018-03-15T01:34:07 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:08 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0011BIAS.0.fits
+2018-03-15T01:34:09 [main.py:163 - doDark()] INFO: Taking BIAS 12 of 30 (exptime = 0)
+2018-03-15T01:34:09 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:10 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0012BIAS.0.fits
+2018-03-15T01:34:10 [main.py:163 - doDark()] INFO: Taking BIAS 13 of 30 (exptime = 0)
+2018-03-15T01:34:10 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:11 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0013BIAS.0.fits
+2018-03-15T01:34:11 [main.py:163 - doDark()] INFO: Taking BIAS 14 of 30 (exptime = 0)
+2018-03-15T01:34:11 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:13 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0014BIAS.0.fits
+2018-03-15T01:34:13 [main.py:163 - doDark()] INFO: Taking BIAS 15 of 30 (exptime = 0)
+2018-03-15T01:34:13 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:14 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0015BIAS.0.fits
+2018-03-15T01:34:15 [main.py:163 - doDark()] INFO: Taking BIAS 16 of 30 (exptime = 0)
+2018-03-15T01:34:15 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:16 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0016BIAS.0.fits
+2018-03-15T01:34:16 [main.py:163 - doDark()] INFO: Taking BIAS 17 of 30 (exptime = 0)
+2018-03-15T01:34:16 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:17 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0017BIAS.0.fits
+2018-03-15T01:34:17 [main.py:163 - doDark()] INFO: Taking BIAS 18 of 30 (exptime = 0)
+2018-03-15T01:34:17 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:19 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0018BIAS.0.fits
+2018-03-15T01:34:19 [main.py:163 - doDark()] INFO: Taking BIAS 19 of 30 (exptime = 0)
+2018-03-15T01:34:19 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:20 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0019BIAS.0.fits
+2018-03-15T01:34:20 [main.py:163 - doDark()] INFO: Taking BIAS 20 of 30 (exptime = 0)
+2018-03-15T01:34:20 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:22 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0020BIAS.0.fits
+2018-03-15T01:34:22 [main.py:163 - doDark()] INFO: Taking BIAS 21 of 30 (exptime = 0)
+2018-03-15T01:34:22 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:23 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0021BIAS.0.fits
+2018-03-15T01:34:23 [main.py:163 - doDark()] INFO: Taking BIAS 22 of 30 (exptime = 0)
+2018-03-15T01:34:23 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:25 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0022BIAS.0.fits
+2018-03-15T01:34:25 [main.py:163 - doDark()] INFO: Taking BIAS 23 of 30 (exptime = 0)
+2018-03-15T01:34:25 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:26 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0023BIAS.0.fits
+2018-03-15T01:34:26 [main.py:163 - doDark()] INFO: Taking BIAS 24 of 30 (exptime = 0)
+2018-03-15T01:34:26 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:28 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0024BIAS.0.fits
+2018-03-15T01:34:28 [main.py:163 - doDark()] INFO: Taking BIAS 25 of 30 (exptime = 0)
+2018-03-15T01:34:28 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:29 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0025BIAS.0.fits
+2018-03-15T01:34:29 [main.py:163 - doDark()] INFO: Taking BIAS 26 of 30 (exptime = 0)
+2018-03-15T01:34:29 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:30 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0026BIAS.0.fits
+2018-03-15T01:34:31 [main.py:163 - doDark()] INFO: Taking BIAS 27 of 30 (exptime = 0)
+2018-03-15T01:34:31 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:32 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0027BIAS.0.fits
+2018-03-15T01:34:32 [main.py:163 - doDark()] INFO: Taking BIAS 28 of 30 (exptime = 0)
+2018-03-15T01:34:32 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:33 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0028BIAS.0.fits
+2018-03-15T01:34:33 [main.py:163 - doDark()] INFO: Taking BIAS 29 of 30 (exptime = 0)
+2018-03-15T01:34:33 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:35 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0029BIAS.0.fits
+2018-03-15T01:34:35 [main.py:163 - doDark()] INFO: Taking BIAS 30 of 30 (exptime = 0)
+2018-03-15T01:34:35 [main.py:227 - takeImage()] INFO: Taking 0 second image
+2018-03-15T01:34:36 [main.py:248 - takeImage()] INFO: Saving image: C:/camal/data/n20180315//0030BIAS.0.fits
+2018-03-15T01:34:36 [main.py:505 - <module>()] INFO: Waiting for nautical twilight to end (2935.514045seconds)
+2018-03-15T02:23:32 [main.py:510 - <module>()] INFO: Making Schedule
+2018-03-15T15:17:24 [<ipython-input-2-538f54223641>:1 - <module>()] INFO: Making Schedule
