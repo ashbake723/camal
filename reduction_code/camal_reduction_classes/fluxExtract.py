@@ -56,6 +56,9 @@ def fluxExtract(science,bias,dark,flats,hdr,plotap=False,rad=18,plotname=None):
     
     # Defaul shape of sbig 2x2 binning
     xsize,ysize = 1266,1676
+    if xsize != np.shape(bias)[0]:
+        print 'WARNING: check that size of science file matches assumptions'
+
     if flats == 0:
         flat = np.ones((xsize,ysize))
     else:
@@ -74,7 +77,10 @@ def fluxExtract(science,bias,dark,flats,hdr,plotap=False,rad=18,plotname=None):
     # Size of science to trim calib frames (which are always full)
     # Science frames either full or sub: 400x400 around center ()
     centx, centy = int(1663/2), int(1252/2) # use config file in future, x and y are switched from thesky vs pyfits???
-    l,b,r,t = centx - 200, centy+200, centx+200, centy-200 # top and bottom switched
+    subframe_size = np.shape(science)
+    dx,dy         = subframe_size[0]/2,subframe_size[0]/2
+    
+    l,b,r,t = centx - dx, centy+dy, centx+dx, centy-dy # top and bottom switched
 
     data = (science - bias[t:b,l:r] - dark[t:b,l:r])/flat[t:b,l:r]
     

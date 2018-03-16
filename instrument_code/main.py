@@ -371,7 +371,7 @@ def doScience(site, telescope, imager, targetinfo):
 
     # Define subframe
     centx, centy = 1663, 1252 # use config file
-    l,b,r,t = centx - 400, centy+400, centx+400, centy-400 # top and bottom switched
+    l,b,r,t = centx - 500, centy+500, centx+500, centy-500 # top and bottom switched
 
     # Set time tracking
     timetracker = time.time()
@@ -491,7 +491,7 @@ if __name__ == '__main__':
     # wait until it's darker to take biases/darks
     readtime = 1.0 #sec
     nbias = 30
-    print x
+
     # Connect to imager
     imager.connect(cooler=True)
 
