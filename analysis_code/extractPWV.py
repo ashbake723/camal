@@ -23,10 +23,12 @@ from camal_analysis_classes import objectextract as obj_ext
 
 def prepNight(email=False):
   night = editAnalysisList(mode='r') # import night in same way do reduction?
-  print 'night = ' + night
+
   if night == None:
-    print 'There are no nights to reduce!'
+    print 'There are no nights to analyze!'
     return None
+
+  print 'night = ' + night
 
   oe = obj_ext.tonight('Mount_Hopkins',night,configfile='camal_analysis_classes/analyze.ini') 
   oe.night = night
@@ -41,7 +43,7 @@ def prepNight(email=False):
   out = f[1].data
   f.close()
 
-  oe.jd = out['JD']
+  oe.jdraw = out['JD']
 
   # make sure the log path exists
   logpath = 'logs/' + oe.night + '/'
@@ -740,30 +742,44 @@ if __name__ == '__main__':
   # load schedule & reduction list, store things into oe object
   oe = prepNight(email=False) 
 
-  if oe != None and len(oe.jd) != 0:
+  try:
+    oe.night
+    noNightsLeft = False
+  except AttributeError:
+    noNightsLeft = True
+
+  if not noNightsLeft:
+    # Check if there were even any observations that night
+    if len(oe.jdraw) != 0:
     # Load cleaned up reduction data
-    loadData(oe)
+      loadData(oe)
 
-    # Get Tind, Xind, load color grids
-    loadColorGrids(oe)
+    else:
+      editAnalysisList(mode='w',night=oe.night,error=True)
 
-    # Do Quick PWV fit
-    doExtract(oe)
+  if not noNightsLeft:
+    # Make sure after cleaning data, didnt nix all points
+    if len(oe.jd) !=0:
+      # Get Tind, Xind, load color grids
+      loadColorGrids(oe)
 
-    # Write to file  
-    saveFits(oe)
+      # Do Quick PWV fit
+      doExtract(oe)
 
-    # Make Plots
-    PlotPWVs(oe)
+      # Write to file  
+      saveFits(oe)
 
-    # Update reduction list saying night is reduced
-    editAnalysisList(mode='w',night=oe.night,error=False)
+      # Make Plots
+      PlotPWVs(oe)
 
-    # Backup data
-    uploadData(oe)
+      # Update reduction list saying night is reduced
+      editAnalysisList(mode='w',night=oe.night,error=False)
 
-  elif oe.night != None:
-    editAnalysisList(mode='w',night=oe.night,error=True)
+      # Backup data
+      uploadData(oe)
+
+    else: #edit analysis file, mark error in that it was a bad night
+      editAnalysisList(mode='w',night=oe.night,error=True)
 
   else:
-    pass
+    pass # if no nights to observe, just dont do anything

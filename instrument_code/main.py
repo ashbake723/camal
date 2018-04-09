@@ -371,7 +371,8 @@ def doScience(site, telescope, imager, targetinfo):
 
     # Define subframe
     centx, centy = 1663, 1252 # use config file
-    l,b,r,t = centx - 500, centy+500, centx+500, centy-500 # top and bottom switched
+    boxwidth = 400
+    l,b,r,t = centx - boxwidth, centy+boxwidth, centx+boxwidth, centy-boxwidth # top and bottom switched
 
     # Set time tracking
     timetracker = time.time()
